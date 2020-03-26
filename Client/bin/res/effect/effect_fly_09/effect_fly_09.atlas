@@ -1,0 +1,26 @@
+
+effect_fly_09.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_fly_09/1834-1
+  rotate: false
+  xy: 321, 16
+  size: 130, 122
+  orig: 256, 192
+  offset: 19, 23
+  index: -1
+effect_fly_09/1834-2
+  rotate: false
+  xy: 1, 4
+  size: 197, 134
+  orig: 256, 192
+  offset: 25, 18
+  index: -1
+effect_fly_09/1834-3
+  rotate: false
+  xy: 199, 1
+  size: 121, 137
+  orig: 256, 192
+  offset: 85, 17
+  index: -1

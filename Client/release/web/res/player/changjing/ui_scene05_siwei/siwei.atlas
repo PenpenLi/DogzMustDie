@@ -1,0 +1,104 @@
+
+siwei.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shitou_1
+  rotate: false
+  xy: 2, 104
+  size: 128, 405
+  orig: 128, 405
+  offset: 0, 0
+  index: -1
+shitou_10
+  rotate: false
+  xy: 399, 207
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+shitou_11
+  rotate: false
+  xy: 437, 117
+  size: 34, 88
+  orig: 34, 88
+  offset: 0, 0
+  index: -1
+shitou_12
+  rotate: false
+  xy: 2, 2
+  size: 208, 100
+  orig: 208, 100
+  offset: 0, 0
+  index: -1
+shitou_13
+  rotate: false
+  xy: 258, 185
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+shitou_14
+  rotate: false
+  xy: 132, 356
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1
+shitou_2
+  rotate: false
+  xy: 297, 135
+  size: 78, 95
+  orig: 78, 95
+  offset: 0, 0
+  index: -1
+shitou_3
+  rotate: false
+  xy: 377, 115
+  size: 58, 90
+  orig: 58, 90
+  offset: 0, 0
+  index: -1
+shitou_4
+  rotate: false
+  xy: 258, 219
+  size: 37, 135
+  orig: 37, 135
+  offset: 0, 0
+  index: -1
+shitou_5
+  rotate: false
+  xy: 399, 293
+  size: 82, 95
+  orig: 82, 95
+  offset: 0, 0
+  index: -1
+shitou_6
+  rotate: false
+  xy: 384, 390
+  size: 107, 119
+  orig: 107, 119
+  offset: 0, 0
+  index: -1
+shitou_7
+  rotate: false
+  xy: 132, 188
+  size: 124, 166
+  orig: 124, 166
+  offset: 0, 0
+  index: -1
+shitou_8
+  rotate: false
+  xy: 297, 232
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+shitou_9
+  rotate: false
+  xy: 305, 339
+  size: 77, 170
+  orig: 77, 170
+  offset: 0, 0
+  index: -1

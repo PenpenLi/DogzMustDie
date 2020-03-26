@@ -1,0 +1,124 @@
+
+effect_ui_guangquan.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_guangquan/image 1
+  rotate: false
+  xy: 368, 385
+  size: 119, 121
+  orig: 126, 126
+  offset: 1, 4
+  index: -1
+effect_ui_guangquan/image 11
+  rotate: false
+  xy: 1, 128
+  size: 115, 124
+  orig: 126, 126
+  offset: 3, 2
+  index: -1
+effect_ui_guangquan/image 13
+  rotate: false
+  xy: 1, 253
+  size: 115, 126
+  orig: 126, 126
+  offset: 1, 0
+  index: -1
+effect_ui_guangquan/image 15
+  rotate: false
+  xy: 117, 36
+  size: 108, 126
+  orig: 126, 126
+  offset: 10, 0
+  index: -1
+effect_ui_guangquan/image 17
+  rotate: false
+  xy: 226, 11
+  size: 106, 126
+  orig: 126, 126
+  offset: 8, 0
+  index: -1
+effect_ui_guangquan/image 19
+  rotate: false
+  xy: 1, 1
+  size: 112, 126
+  orig: 126, 126
+  offset: 4, 0
+  index: -1
+effect_ui_guangquan/image 21
+  rotate: false
+  xy: 1, 380
+  size: 118, 126
+  orig: 126, 126
+  offset: 1, 0
+  index: -1
+effect_ui_guangquan/image 23
+  rotate: false
+  xy: 615, 398
+  size: 126, 108
+  orig: 126, 126
+  offset: 0, 11
+  index: -1
+effect_ui_guangquan/image 25
+  rotate: false
+  xy: 488, 396
+  size: 126, 110
+  orig: 126, 126
+  offset: 0, 7
+  index: -1
+effect_ui_guangquan/image 27
+  rotate: false
+  xy: 120, 388
+  size: 126, 118
+  orig: 126, 126
+  offset: 0, 7
+  index: -1
+effect_ui_guangquan/image 29
+  rotate: false
+  xy: 869, 400
+  size: 126, 106
+  orig: 126, 126
+  offset: 0, 11
+  index: -1
+effect_ui_guangquan/image 3
+  rotate: false
+  xy: 232, 138
+  size: 110, 121
+  orig: 126, 126
+  offset: 6, 5
+  index: -1
+effect_ui_guangquan/image 31
+  rotate: false
+  xy: 120, 287
+  size: 126, 100
+  orig: 126, 126
+  offset: 0, 14
+  index: -1
+effect_ui_guangquan/image 33
+  rotate: false
+  xy: 742, 398
+  size: 126, 108
+  orig: 126, 126
+  offset: 0, 9
+  index: -1
+effect_ui_guangquan/image 5
+  rotate: false
+  xy: 117, 163
+  size: 114, 123
+  orig: 126, 126
+  offset: 4, 3
+  index: -1
+effect_ui_guangquan/image 7
+  rotate: false
+  xy: 247, 260
+  size: 114, 123
+  orig: 126, 126
+  offset: 4, 3
+  index: -1
+effect_ui_guangquan/image 9
+  rotate: false
+  xy: 247, 384
+  size: 120, 122
+  orig: 126, 126
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,54 @@
+
+effect_ui_daoju3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_daoju3/tklj_002
+  rotate: false
+  xy: 1, 123
+  size: 321, 107
+  orig: 502, 107
+  offset: 0, 0
+  index: -1
+effect_ui_daoju3/tklj_003
+  rotate: false
+  xy: 1, 231
+  size: 383, 74
+  orig: 502, 107
+  offset: 25, 24
+  index: -1
+effect_ui_daoju3/tklj_004
+  rotate: false
+  xy: 1, 306
+  size: 430, 64
+  orig: 502, 107
+  offset: 29, 29
+  index: -1
+effect_ui_daoju3/tklj_005
+  rotate: false
+  xy: 1, 371
+  size: 488, 60
+  orig: 502, 107
+  offset: 14, 31
+  index: -1
+effect_ui_daoju3/tklj_006
+  rotate: false
+  xy: 1, 80
+  size: 214, 42
+  orig: 502, 107
+  offset: 52, 34
+  index: -1
+effect_ui_daoju3/tklj_007
+  rotate: false
+  xy: 1, 38
+  size: 173, 41
+  orig: 502, 107
+  offset: 49, 34
+  index: -1
+effect_ui_daoju3/tklj_008
+  rotate: false
+  xy: 1, 1
+  size: 165, 36
+  orig: 502, 107
+  offset: 45, 34
+  index: -1

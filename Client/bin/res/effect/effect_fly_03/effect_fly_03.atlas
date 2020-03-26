@@ -1,0 +1,75 @@
+
+effect_fly_03.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_fly_03/1293-1
+  rotate: false
+  xy: 227, 1
+  size: 72, 44
+  orig: 80, 44
+  offset: 8, 0
+  index: -1
+effect_fly_03/1293-10
+  rotate: false
+  xy: 387, 48
+  size: 76, 43
+  orig: 80, 44
+  offset: 4, 0
+  index: -1
+effect_fly_03/1293-2
+  rotate: false
+  xy: 1, 1
+  size: 74, 46
+  orig: 80, 46
+  offset: 6, 0
+  index: -1
+effect_fly_03/1293-3
+  rotate: false
+  xy: 76, 2
+  size: 75, 45
+  orig: 80, 45
+  offset: 5, 0
+  index: -1
+effect_fly_03/1293-4
+  rotate: false
+  xy: 235, 46
+  size: 75, 45
+  orig: 80, 45
+  offset: 5, 0
+  index: -1
+effect_fly_03/1293-5
+  rotate: false
+  xy: 158, 47
+  size: 76, 44
+  orig: 80, 44
+  offset: 4, 0
+  index: -1
+effect_fly_03/1293-6
+  rotate: false
+  xy: 1, 48
+  size: 78, 43
+  orig: 80, 44
+  offset: 2, 1
+  index: -1
+effect_fly_03/1293-7
+  rotate: false
+  xy: 80, 48
+  size: 77, 43
+  orig: 80, 44
+  offset: 3, 1
+  index: -1
+effect_fly_03/1293-8
+  rotate: false
+  xy: 311, 47
+  size: 75, 44
+  orig: 80, 44
+  offset: 5, 0
+  index: -1
+effect_fly_03/1293-9
+  rotate: false
+  xy: 152, 2
+  size: 74, 44
+  orig: 80, 44
+  offset: 6, 0
+  index: -1

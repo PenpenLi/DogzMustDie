@@ -1,0 +1,75 @@
+
+effect_attack_jinzhan4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_attack_jinzhan4/fire_04_fill_00000
+  rotate: false
+  xy: 139, 75
+  size: 73, 33
+  orig: 100, 100
+  offset: 2, 30
+  index: -1
+effect_attack_jinzhan4/fire_04_fill_00001
+  rotate: false
+  xy: 331, 70
+  size: 55, 38
+  orig: 100, 100
+  offset: 4, 34
+  index: -1
+effect_attack_jinzhan4/fire_04_fill_00002
+  rotate: false
+  xy: 72, 63
+  size: 66, 45
+  orig: 100, 100
+  offset: 5, 29
+  index: -1
+effect_attack_jinzhan4/fire_04_fill_00003
+  rotate: false
+  xy: 1, 57
+  size: 70, 51
+  orig: 100, 100
+  offset: 6, 26
+  index: -1
+effect_attack_jinzhan4/fire_04_fill_00004
+  rotate: false
+  xy: 213, 54
+  size: 58, 54
+  orig: 100, 100
+  offset: 25, 24
+  index: -1
+effect_attack_jinzhan4/fire_04_fill_00005
+  rotate: false
+  xy: 272, 52
+  size: 58, 56
+  orig: 100, 100
+  offset: 30, 22
+  index: -1
+effect_attack_jinzhan4/fire_04_fill_00006
+  rotate: false
+  xy: 1, 1
+  size: 60, 55
+  orig: 100, 100
+  offset: 30, 23
+  index: -1
+effect_attack_jinzhan4/fire_04_fill_00007
+  rotate: false
+  xy: 387, 52
+  size: 37, 56
+  orig: 100, 100
+  offset: 53, 23
+  index: -1
+effect_attack_jinzhan4/fire_04_fill_00008
+  rotate: false
+  xy: 425, 52
+  size: 31, 56
+  orig: 100, 100
+  offset: 60, 23
+  index: -1
+effect_attack_jinzhan4/fire_04_fill_00009
+  rotate: false
+  xy: 457, 55
+  size: 30, 53
+  orig: 100, 100
+  offset: 61, 25
+  index: -1

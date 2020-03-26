@@ -1,0 +1,125 @@
+
+shamo.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bird_1
+  rotate: false
+  xy: 370, 94
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+bird_10
+  rotate: true
+  xy: 296, 53
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+bird_11
+  rotate: false
+  xy: 244, 36
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+bird_12
+  rotate: true
+  xy: 180, 2
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+bird_13
+  rotate: false
+  xy: 442, 107
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+bird_14
+  rotate: false
+  xy: 180, 14
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+bird_15
+  rotate: false
+  xy: 414, 96
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+bird_2
+  rotate: false
+  xy: 197, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+bird_3
+  rotate: false
+  xy: 414, 106
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+bird_4
+  rotate: false
+  xy: 132, 6
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+bird_5
+  rotate: false
+  xy: 224, 52
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+bird_6
+  rotate: false
+  xy: 318, 92
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+bird_7
+  rotate: false
+  xy: 465, 115
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+bird_8
+  rotate: false
+  xy: 224, 36
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+bird_9
+  rotate: false
+  xy: 224, 86
+  size: 92, 40
+  orig: 92, 40
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 2, 5
+  size: 121, 128
+  orig: 121, 128
+  offset: 0, 0
+  index: -1
+moon
+  rotate: false
+  xy: 132, 34
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1

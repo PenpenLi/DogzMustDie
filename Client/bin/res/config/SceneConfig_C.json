@@ -1,0 +1,9 @@
+{
+"10001":{"1":{"SceneName":10001,"strSceneChange":"s_10002","strSceneBacSound":"1001","strSceneFileName":"Scene04"}},
+"10002":{"1":{"SceneName":10002,"strSceneChange":"s_10001","strSceneBacSound":"1001","strSceneFileName":"Scene01"}},
+"10003":{"1":{"SceneName":10003,"strSceneChange":"s_10002","strSceneBacSound":"1001","strSceneFileName":"Scene03"}},
+"10004":{"1":{"SceneName":10004,"strSceneChange":"s_10001","strSceneBacSound":"1001","strSceneFileName":"Scene07"}},
+"10005":{"1":{"SceneName":10005,"strSceneChange":"s_10003","strSceneBacSound":"1001","strSceneFileName":"Scene02"}},
+"10006":{"1":{"SceneName":10006,"strSceneChange":"s_10002","strSceneBacSound":"1001","strSceneFileName":"Scene06"}},
+"10007":{"1":{"SceneName":10007,"strSceneChange":"s_10001","strSceneBacSound":"1001","strSceneFileName":"Scene05"}}
+}

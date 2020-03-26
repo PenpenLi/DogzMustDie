@@ -1,0 +1,11 @@
+[-1]20:32:02:LogServer Start!
+[00]20:32:02:cannot open ./Server/version.lua: No such file or directory
+[00]20:32:02:CMasterServer Shutdown.
+[-1]20:32:02:LogServer shuting...
+[-1]20:32:03:LogServer Start!
+[00]20:32:03:localhost
+[00]20:32:03:7003
+[00]20:32:03:****************Debug Start ***********************
+[00]20:32:03:cannot open ./Server/version.lua: No such file or directory
+[00]20:32:03:CMasterServer Shutdown.
+[-1]20:32:03:LogServer shuting...

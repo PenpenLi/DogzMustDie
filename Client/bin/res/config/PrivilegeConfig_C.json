@@ -1,0 +1,7 @@
+{
+"1":{"stricon":"icon-tequan-hjzl.png","type":1,"name":5101,"isActive":1,"PurchaseConsumption":{"1":2,"2":50},"description":5111,"parameter":{},"continueTime":43200},
+"2":{"stricon":"icon-tequan-ssxjs.png","type":2,"name":5102,"isActive":1,"PurchaseConsumption":{"1":2,"2":50},"description":5112,"parameter":{"1":1},"continueTime":30},
+"3":{"stricon":"icon-tequan-flhf.png","type":2,"name":5103,"isActive":1,"PurchaseConsumption":{"1":2,"2":100},"description":5113,"parameter":{"1":2},"continueTime":43200},
+"4":{"stricon":"icon-tequan-tjjy.png","type":3,"name":5104,"isActive":1,"PurchaseConsumption":{"1":2,"2":100},"description":5114,"parameter":{"1":500},"continueTime":0},
+"5":{"stricon":"icon-tequan-jyjc.png","type":4,"name":5105,"isActive":1,"PurchaseConsumption":{"1":2,"2":150},"description":5115,"parameter":{"1":2000},"continueTime":86400}
+}

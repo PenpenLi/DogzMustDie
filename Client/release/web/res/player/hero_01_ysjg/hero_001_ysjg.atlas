@@ -1,0 +1,188 @@
+
+hero_001_ysjg.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt_1
+  rotate: false
+  xy: 237, 117
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+belt_2
+  rotate: false
+  xy: 209, 56
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+belt_3
+  rotate: false
+  xy: 216, 84
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 112
+  size: 101, 144
+  orig: 102, 144
+  offset: 1, 0
+  index: -1
+eye
+  rotate: false
+  xy: 98, 25
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+eyebrow_1
+  rotate: false
+  xy: 237, 149
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+eyebrow_2
+  rotate: false
+  xy: 219, 74
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 140, 195
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+fair_1
+  rotate: false
+  xy: 183, 114
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+fair_2
+  rotate: false
+  xy: 202, 40
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+hats
+  rotate: false
+  xy: 0, 2
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 140, 80
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: false
+  xy: 204, 196
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 183, 82
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+left_upper_arm
+  rotate: false
+  xy: 98, 34
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 0, 29
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 140, 126
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+right_uppe_ arm
+  rotate: false
+  xy: 62, 0
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+shoulder_armour_1
+  rotate: false
+  xy: 135, 38
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+shoulder_armour_2
+  rotate: false
+  xy: 186, 40
+  size: 16, 16
+  orig: 16, 17
+  offset: 0, 1
+  index: -1
+shoulder_armour_3
+  rotate: false
+  xy: 222, 159
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+sleeve_1
+  rotate: false
+  xy: 182, 154
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+sleeve_2
+  rotate: false
+  xy: 186, 56
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+sword_1
+  rotate: false
+  xy: 135, 8
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+sword_2
+  rotate: false
+  xy: 101, 81
+  size: 39, 175
+  orig: 39, 175
+  offset: 0, 0
+  index: -1
+thumb
+  rotate: false
+  xy: 237, 129
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1

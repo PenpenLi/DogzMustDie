@@ -1,0 +1,26 @@
+
+effect_attack_role3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_attack_role3/image 1
+  rotate: false
+  xy: 1, 52
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+effect_attack_role3/image 2
+  rotate: false
+  xy: 1, 1
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+effect_attack_role3/image 3
+  rotate: false
+  xy: 102, 52
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1

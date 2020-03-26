@@ -1,0 +1,4 @@
+{
+"1":{"1":{"id":1,"treasureweight":60,"rewardId":65,"fairyType":2},"2":{"id":2,"treasureweight":40,"rewardId":66,"fairyType":2},"3":{"id":3,"treasureweight":150,"rewardId":67,"fairyType":2},"4":{"id":4,"treasureweight":250,"rewardId":68,"fairyType":2}},
+"2":{"1":{"id":1,"treasureweight":100,"rewardId":65,"fairyType":2},"2":{"id":2,"treasureweight":100,"rewardId":66,"fairyType":1},"3":{"id":3,"treasureweight":100,"rewardId":67,"fairyType":3},"4":{"id":4,"treasureweight":100,"rewardId":68,"fairyType":3}}
+}

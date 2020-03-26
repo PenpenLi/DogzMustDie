@@ -1,0 +1,146 @@
+
+hero_019_atm.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 102
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+defibrillator_1
+  rotate: false
+  xy: 162, 145
+  size: 24, 60
+  orig: 24, 60
+  offset: 0, 0
+  index: -1
+defibrillator_2
+  rotate: false
+  xy: 162, 207
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 217, 214
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+fin_1
+  rotate: true
+  xy: 108, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+fin_2
+  rotate: false
+  xy: 217, 176
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+fin_3
+  rotate: false
+  xy: 124, 75
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+fin_4
+  rotate: true
+  xy: 124, 27
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+finger_1
+  rotate: false
+  xy: 162, 96
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+finger_2
+  rotate: false
+  xy: 161, 80
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 10
+  size: 82, 90
+  orig: 82, 90
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 162, 110
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: false
+  xy: 124, 10
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 86, 2
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+left_thigh
+  rotate: true
+  xy: 188, 147
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+left_upper_arm
+  rotate: true
+  xy: 216, 149
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 124, 45
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+right_foot
+  rotate: false
+  xy: 86, 48
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 188, 180
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+right_upper_arm
+  rotate: false
+  xy: 86, 21
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1

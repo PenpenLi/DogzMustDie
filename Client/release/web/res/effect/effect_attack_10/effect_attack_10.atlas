@@ -1,0 +1,96 @@
+
+effect_attack_10.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_attack_10/1050-1
+  rotate: false
+  xy: 858, 758
+  size: 149, 209
+  orig: 230, 329
+  offset: 37, 80
+  index: -1
+effect_attack_10/1050-10
+  rotate: false
+  xy: 1, 310
+  size: 203, 328
+  orig: 230, 329
+  offset: 11, 1
+  index: -1
+effect_attack_10/1050-11
+  rotate: false
+  xy: 218, 642
+  size: 203, 325
+  orig: 230, 329
+  offset: 4, 2
+  index: -1
+effect_attack_10/1050-12
+  rotate: false
+  xy: 1, 1
+  size: 185, 308
+  orig: 230, 329
+  offset: 19, 0
+  index: -1
+effect_attack_10/1050-13
+  rotate: false
+  xy: 634, 404
+  size: 178, 259
+  orig: 230, 329
+  offset: 26, 51
+  index: -1
+effect_attack_10/1050-2
+  rotate: false
+  xy: 187, 4
+  size: 185, 305
+  orig: 230, 370
+  offset: 26, 35
+  index: -1
+effect_attack_10/1050-3
+  rotate: false
+  xy: 587, 85
+  size: 196, 268
+  orig: 230, 329
+  offset: 16, 41
+  index: -1
+effect_attack_10/1050-4
+  rotate: false
+  xy: 205, 351
+  size: 209, 287
+  orig: 230, 329
+  offset: 10, 34
+  index: -1
+effect_attack_10/1050-5
+  rotate: false
+  xy: 373, 70
+  size: 213, 280
+  orig: 230, 329
+  offset: 3, 36
+  index: -1
+effect_attack_10/1050-6
+  rotate: false
+  xy: 415, 354
+  size: 218, 287
+  orig: 230, 329
+  offset: 1, 33
+  index: -1
+effect_attack_10/1050-7
+  rotate: false
+  xy: 639, 676
+  size: 218, 291
+  orig: 230, 329
+  offset: 0, 27
+  index: -1
+effect_attack_10/1050-8
+  rotate: false
+  xy: 422, 664
+  size: 216, 303
+  orig: 230, 329
+  offset: 0, 19
+  index: -1
+effect_attack_10/1050-9
+  rotate: false
+  xy: 1, 639
+  size: 216, 328
+  orig: 230, 329
+  offset: 1, 1
+  index: -1

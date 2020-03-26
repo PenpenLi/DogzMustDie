@@ -1,0 +1,111 @@
+
+hero_035_fky.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 268, 36
+  size: 96, 94
+  orig: 96, 94
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 0, 0
+  size: 82, 39
+  orig: 82, 39
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 125, 292
+  size: 128, 198
+  orig: 128, 198
+  offset: 0, 0
+  index: -1
+skull_1
+  rotate: false
+  xy: 125, 217
+  size: 101, 75
+  orig: 101, 75
+  offset: 0, 0
+  index: -1
+skull_2
+  rotate: false
+  xy: 124, 46
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+tentacle_1
+  rotate: false
+  xy: 437, 303
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+tentacle_10
+  rotate: false
+  xy: 359, 263
+  size: 78, 227
+  orig: 78, 227
+  offset: 0, 0
+  index: -1
+tentacle_2
+  rotate: false
+  xy: 124, 76
+  size: 144, 141
+  orig: 144, 141
+  offset: 0, 0
+  index: -1
+tentacle_3
+  rotate: false
+  xy: 437, 390
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+tentacle_4
+  rotate: false
+  xy: 268, 130
+  size: 145, 133
+  orig: 145, 133
+  offset: 0, 0
+  index: -1
+tentacle_5
+  rotate: false
+  xy: 0, 248
+  size: 125, 242
+  orig: 125, 242
+  offset: 0, 0
+  index: -1
+tentacle_6
+  rotate: false
+  xy: 364, 49
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+tentacle_7
+  rotate: false
+  xy: 413, 140
+  size: 93, 123
+  orig: 93, 123
+  offset: 0, 0
+  index: -1
+tentacle_8
+  rotate: false
+  xy: 253, 278
+  size: 106, 212
+  orig: 106, 212
+  offset: 0, 0
+  index: -1
+tentacle_9
+  rotate: false
+  xy: 0, 39
+  size: 124, 209
+  orig: 124, 209
+  offset: 0, 0
+  index: -1

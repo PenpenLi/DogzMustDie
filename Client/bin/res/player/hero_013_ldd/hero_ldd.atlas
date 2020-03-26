@@ -1,0 +1,174 @@
+
+hero_ldd.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 0, 55
+  size: 63, 90
+  orig: 63, 90
+  offset: 0, 0
+  index: -1
+Finger
+  rotate: false
+  xy: 219, 100
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+Hair_1
+  rotate: false
+  xy: 141, 14
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+Hair_2
+  rotate: false
+  xy: 63, 86
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+Hair_3
+  rotate: false
+  xy: 185, 188
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+Hair_4
+  rotate: false
+  xy: 214, 48
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+Hair_5
+  rotate: false
+  xy: 63, 41
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 145
+  size: 110, 111
+  orig: 110, 112
+  offset: 0, 0
+  index: -1
+Left_arm
+  rotate: false
+  xy: 109, 0
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Left_calf
+  rotate: false
+  xy: 190, 39
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+Left_foot
+  rotate: false
+  xy: 0, 13
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+Left_hand
+  rotate: false
+  xy: 221, 124
+  size: 30, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Left_thigh
+  rotate: false
+  xy: 149, 94
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+Left_upper_arm
+  rotate: false
+  xy: 109, 42
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Lollipop
+  rotate: false
+  xy: 111, 86
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+Right_arm
+  rotate: false
+  xy: 185, 95
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Right_calf
+  rotate: false
+  xy: 154, 40
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+Right_foot
+  rotate: false
+  xy: 185, 138
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+Right_hand
+  rotate: false
+  xy: 221, 152
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Right_thigh
+  rotate: false
+  xy: 110, 184
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+Right_upper_arm
+  rotate: false
+  xy: 56, 0
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+Snivel
+  rotate: false
+  xy: 0, 4
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+Thumb
+  rotate: false
+  xy: 237, 107
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 110, 154
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1

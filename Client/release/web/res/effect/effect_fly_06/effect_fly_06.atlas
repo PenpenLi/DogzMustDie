@@ -1,0 +1,89 @@
+
+effect_fly_06.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_fly_06/127192-10_png
+  rotate: false
+  xy: 147, 77
+  size: 70, 72
+  orig: 80, 80
+  offset: 5, 3
+  index: -1
+effect_fly_06/127192-11_png
+  rotate: false
+  xy: 222, 148
+  size: 71, 71
+  orig: 80, 80
+  offset: 4, 4
+  index: -1
+effect_fly_06/127192-12_png
+  rotate: false
+  xy: 1, 147
+  size: 72, 72
+  orig: 80, 80
+  offset: 3, 3
+  index: -1
+effect_fly_06/127192-1_png
+  rotate: false
+  xy: 147, 150
+  size: 74, 69
+  orig: 80, 80
+  offset: 3, 7
+  index: -1
+effect_fly_06/127192-2_png
+  rotate: false
+  xy: 1, 1
+  size: 71, 72
+  orig: 80, 80
+  offset: 4, 3
+  index: -1
+effect_fly_06/127192-3_png
+  rotate: false
+  xy: 74, 75
+  size: 72, 71
+  orig: 80, 80
+  offset: 3, 4
+  index: -1
+effect_fly_06/127192-4_png
+  rotate: false
+  xy: 294, 149
+  size: 71, 70
+  orig: 80, 80
+  offset: 4, 5
+  index: -1
+effect_fly_06/127192-5_png
+  rotate: false
+  xy: 438, 150
+  size: 70, 69
+  orig: 80, 80
+  offset: 5, 6
+  index: -1
+effect_fly_06/127192-6_png
+  rotate: false
+  xy: 1, 74
+  size: 72, 72
+  orig: 80, 80
+  offset: 3, 3
+  index: -1
+effect_fly_06/127192-7_png
+  rotate: false
+  xy: 74, 147
+  size: 72, 72
+  orig: 80, 80
+  offset: 3, 3
+  index: -1
+effect_fly_06/127192-8_png
+  rotate: false
+  xy: 218, 75
+  size: 69, 72
+  orig: 80, 80
+  offset: 5, 3
+  index: -1
+effect_fly_06/127192-9_png
+  rotate: false
+  xy: 366, 150
+  size: 71, 69
+  orig: 80, 80
+  offset: 4, 4
+  index: -1

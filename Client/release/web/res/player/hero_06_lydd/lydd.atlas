@@ -1,0 +1,181 @@
+
+lydd.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_forearm
+  rotate: true
+  xy: 90, 111
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 158, 158
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+L_upperarm
+  rotate: false
+  xy: 216, 198
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+R_forearm
+  rotate: false
+  xy: 140, 123
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 158, 185
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+R_upperarm
+  rotate: false
+  xy: 186, 190
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 1, 106
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1, 1
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 167, 125
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+hand_01
+  rotate: false
+  xy: 37, 95
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+hand_02
+  rotate: false
+  xy: 183, 148
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 153
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+left_calf
+  rotate: false
+  xy: 139, 158
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: true
+  xy: 1, 17
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+left_tight
+  rotate: true
+  xy: 203, 219
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 192, 164
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 1, 57
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+right_calf
+  rotate: false
+  xy: 115, 111
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+right_foot
+  rotate: true
+  xy: 157, 219
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+right_tight
+  rotate: false
+  xy: 48, 111
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+spine01
+  rotate: true
+  xy: 109, 158
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+spine02
+  rotate: false
+  xy: 109, 207
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+toufa01
+  rotate: true
+  xy: 245, 215
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+toufa02
+  rotate: true
+  xy: 140, 111
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+toufa03
+  rotate: true
+  xy: 243, 196
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1

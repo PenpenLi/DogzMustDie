@@ -1,0 +1,131 @@
+
+effect_state_shifa.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_state_shifa/0260001
+  rotate: false
+  xy: 154, 33
+  size: 139, 113
+  orig: 278, 305
+  offset: 70, 41
+  index: -1
+effect_state_shifa/0260002
+  rotate: false
+  xy: 544, 136
+  size: 145, 128
+  orig: 278, 305
+  offset: 66, 38
+  index: -1
+effect_state_shifa/0260003
+  rotate: false
+  xy: 1, 1
+  size: 152, 150
+  orig: 278, 305
+  offset: 61, 35
+  index: -1
+effect_state_shifa/0260004
+  rotate: false
+  xy: 381, 100
+  size: 162, 168
+  orig: 278, 305
+  offset: 56, 31
+  index: -1
+effect_state_shifa/0260005
+  rotate: false
+  xy: 212, 147
+  size: 168, 186
+  orig: 278, 305
+  offset: 53, 28
+  index: -1
+effect_state_shifa/0260006
+  rotate: false
+  xy: 225, 334
+  size: 173, 232
+  orig: 278, 305
+  offset: 50, 24
+  index: -1
+effect_state_shifa/0260007
+  rotate: false
+  xy: 651, 516
+  size: 182, 236
+  orig: 278, 305
+  offset: 42, 20
+  index: -1
+effect_state_shifa/0260008
+  rotate: false
+  xy: 834, 513
+  size: 182, 239
+  orig: 278, 305
+  offset: 42, 17
+  index: -1
+effect_state_shifa/0260009
+  rotate: false
+  xy: 463, 522
+  size: 187, 253
+  orig: 278, 305
+  offset: 36, 13
+  index: -1
+effect_state_shifa/0260010
+  rotate: false
+  xy: 738, 753
+  size: 199, 267
+  orig: 278, 305
+  offset: 31, 10
+  index: -1
+effect_state_shifa/0260011
+  rotate: false
+  xy: 1, 152
+  size: 210, 277
+  orig: 278, 305
+  offset: 27, 7
+  index: -1
+effect_state_shifa/0260012
+  rotate: false
+  xy: 1, 430
+  size: 223, 290
+  orig: 278, 305
+  offset: 21, 3
+  index: -1
+effect_state_shifa/0260013
+  rotate: false
+  xy: 1, 721
+  size: 236, 299
+  orig: 278, 305
+  offset: 15, 4
+  index: -1
+effect_state_shifa/0260014
+  rotate: false
+  xy: 508, 776
+  size: 229, 244
+  orig: 278, 305
+  offset: 27, 24
+  index: -1
+effect_state_shifa/0260015
+  rotate: false
+  xy: 238, 567
+  size: 224, 217
+  orig: 278, 305
+  offset: 26, 20
+  index: -1
+effect_state_shifa/0260016
+  rotate: false
+  xy: 238, 785
+  size: 269, 235
+  orig: 278, 305
+  offset: 2, 7
+  index: -1
+effect_state_shifa/0260017
+  rotate: false
+  xy: 566, 265
+  size: 163, 250
+  orig: 278, 305
+  offset: 58, 36
+  index: -1
+effect_state_shifa/0260018
+  rotate: false
+  xy: 399, 269
+  size: 166, 252
+  orig: 278, 305
+  offset: 56, 34
+  index: -1

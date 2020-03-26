@@ -1,0 +1,8 @@
+<res>
+   <item name="ui_main/_0002_组-19-拷贝-2.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui_guid/story.jpg" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui_guid/story2.jpg" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui_guid/story.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui_guid/story2.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="ui_noPack" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+</res>

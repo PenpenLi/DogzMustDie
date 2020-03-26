@@ -1,0 +1,139 @@
+
+boss_028_wsj.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 87, 21
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+huxu_1
+  rotate: false
+  xy: 282, 99
+  size: 99, 102
+  orig: 99, 102
+  offset: 0, 0
+  index: -1
+huxu_5
+  rotate: false
+  xy: 0, 0
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+jiubei
+  rotate: false
+  xy: 381, 127
+  size: 25, 74
+  orig: 25, 74
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 160, 129
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1
+shanhu_2
+  rotate: false
+  xy: 395, 212
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+shanhu_5
+  rotate: false
+  xy: 274, 5
+  size: 80, 94
+  orig: 80, 97
+  offset: 0, 3
+  index: -1
+shanhu_6
+  rotate: false
+  xy: 435, 417
+  size: 64, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 52
+  size: 160, 184
+  orig: 160, 184
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: false
+  xy: 354, 0
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+weiba_2
+  rotate: false
+  xy: 354, 23
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+yongquan_1
+  rotate: false
+  xy: 286, 403
+  size: 149, 109
+  orig: 149, 110
+  offset: 0, 0
+  index: -1
+yongquan_2
+  rotate: false
+  xy: 286, 304
+  size: 122, 99
+  orig: 122, 99
+  offset: 0, 0
+  index: -1
+youshou_1
+  rotate: false
+  xy: 286, 201
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+youshou_2
+  rotate: false
+  xy: 160, 29
+  size: 114, 100
+  orig: 114, 100
+  offset: 0, 0
+  index: -1
+zuodian_1
+  rotate: false
+  xy: 0, 236
+  size: 286, 276
+  orig: 286, 276
+  offset: 0, 0
+  index: -1
+zuodian_2
+  rotate: false
+  xy: 0, 27
+  size: 87, 25
+  orig: 88, 25
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 408, 295
+  size: 37, 108
+  orig: 37, 108
+  offset: 0, 0
+  index: -1
+zuoshou_02
+  rotate: false
+  xy: 445, 275
+  size: 47, 142
+  orig: 50, 181
+  offset: 3, 0
+  index: -1

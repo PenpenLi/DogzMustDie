@@ -1,0 +1,110 @@
+
+boss.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing
+  rotate: false
+  xy: 104, 28
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+dabi
+  rotate: false
+  xy: 260, 269
+  size: 98, 238
+  orig: 98, 238
+  offset: 0, 0
+  index: -1
+dici01
+  rotate: false
+  xy: 461, 71
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+dici02
+  rotate: false
+  xy: 138, 71
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+jian L
+  rotate: false
+  xy: 358, 336
+  size: 151, 171
+  orig: 151, 171
+  offset: 0, 0
+  index: -1
+jian R
+  rotate: false
+  xy: 49, 23
+  size: 55, 73
+  orig: 55, 73
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 271
+  size: 260, 236
+  orig: 260, 236
+  offset: 0, 0
+  index: -1
+shenti_bing
+  rotate: false
+  xy: 325, 232
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+shou R
+  rotate: false
+  xy: 325, 106
+  size: 175, 109
+  orig: 175, 109
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 192, 86
+  size: 133, 183
+  orig: 133, 183
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 0, 96
+  size: 192, 175
+  orig: 192, 175
+  offset: 0, 0
+  index: -1
+xia ba
+  rotate: false
+  xy: 325, 0
+  size: 136, 106
+  orig: 136, 106
+  offset: 0, 0
+  index: -1
+xiaobi
+  rotate: false
+  xy: 358, 215
+  size: 150, 121
+  orig: 150, 121
+  offset: 0, 0
+  index: -1
+xiapbi_bing
+  rotate: false
+  xy: 0, 12
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 461, 29
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1

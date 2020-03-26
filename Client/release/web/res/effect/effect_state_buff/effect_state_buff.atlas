@@ -1,0 +1,103 @@
+
+effect_state_buff.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_state_buff/image 11
+  rotate: false
+  xy: 332, 329
+  size: 91, 163
+  orig: 300, 300
+  offset: 94, 74
+  index: -1
+effect_state_buff/image 13
+  rotate: false
+  xy: 368, 159
+  size: 91, 163
+  orig: 300, 300
+  offset: 98, 74
+  index: -1
+effect_state_buff/image 15
+  rotate: false
+  xy: 1, 121
+  size: 117, 185
+  orig: 300, 300
+  offset: 81, 64
+  index: -1
+effect_state_buff/image 17
+  rotate: false
+  xy: 119, 121
+  size: 106, 185
+  orig: 300, 300
+  offset: 85, 64
+  index: -1
+effect_state_buff/image 19
+  rotate: false
+  xy: 1, 307
+  size: 120, 185
+  orig: 300, 300
+  offset: 81, 64
+  index: -1
+effect_state_buff/image 21
+  rotate: false
+  xy: 122, 307
+  size: 110, 185
+  orig: 300, 300
+  offset: 86, 64
+  index: -1
+effect_state_buff/image 23
+  rotate: false
+  xy: 233, 307
+  size: 98, 185
+  orig: 300, 300
+  offset: 92, 64
+  index: -1
+effect_state_buff/image 25
+  rotate: false
+  xy: 226, 121
+  size: 84, 185
+  orig: 300, 300
+  offset: 99, 64
+  index: -1
+effect_state_buff/image 27
+  rotate: false
+  xy: 424, 323
+  size: 68, 169
+  orig: 300, 300
+  offset: 107, 69
+  index: -1
+effect_state_buff/image 29
+  rotate: false
+  xy: 311, 138
+  size: 56, 168
+  orig: 300, 300
+  offset: 113, 69
+  index: -1
+effect_state_buff/image 3
+  rotate: false
+  xy: 460, 293
+  size: 29, 29
+  orig: 300, 300
+  offset: 143, 145
+  index: -1
+effect_state_buff/image 5
+  rotate: false
+  xy: 177, 39
+  size: 64, 81
+  orig: 300, 300
+  offset: 105, 123
+  index: -1
+effect_state_buff/image 7
+  rotate: false
+  xy: 102, 11
+  size: 74, 109
+  orig: 300, 300
+  offset: 108, 116
+  index: -1
+effect_state_buff/image 9
+  rotate: false
+  xy: 1, 1
+  size: 100, 119
+  orig: 300, 300
+  offset: 89, 106
+  index: -1

@@ -1,0 +1,33 @@
+
+effect_fly_04.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_fly_04/flycannon01
+  rotate: false
+  xy: 1, 1
+  size: 56, 59
+  orig: 80, 80
+  offset: 11, 20
+  index: -1
+effect_fly_04/flycannon02
+  rotate: false
+  xy: 58, 37
+  size: 57, 23
+  orig: 80, 80
+  offset: 11, 27
+  index: -1
+effect_fly_04/flycannon03
+  rotate: false
+  xy: 58, 13
+  size: 57, 23
+  orig: 80, 80
+  offset: 11, 27
+  index: -1
+effect_fly_04/flycannon04
+  rotate: false
+  xy: 116, 37
+  size: 57, 23
+  orig: 80, 80
+  offset: 11, 27
+  index: -1

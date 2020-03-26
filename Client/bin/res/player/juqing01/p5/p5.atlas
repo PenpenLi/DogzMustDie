@@ -1,0 +1,76 @@
+
+p5.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p5_1
+  rotate: true
+  xy: 269, 53
+  size: 452, 201
+  orig: 452, 201
+  offset: 0, 0
+  index: -1
+p5_1_t
+  rotate: false
+  xy: 2, 2
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+p5_2
+  rotate: false
+  xy: 472, 45
+  size: 452, 162
+  orig: 452, 162
+  offset: 0, 0
+  index: -1
+p5_2_t
+  rotate: true
+  xy: 926, 66
+  size: 160, 89
+  orig: 160, 89
+  offset: 0, 0
+  index: -1
+p5_3
+  rotate: false
+  xy: 733, 246
+  size: 183, 259
+  orig: 183, 259
+  offset: 0, 0
+  index: -1
+p5_4
+  rotate: true
+  xy: 472, 209
+  size: 296, 259
+  orig: 296, 259
+  offset: 0, 0
+  index: -1
+p5_4_t
+  rotate: false
+  xy: 70, 13
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+p5_5
+  rotate: true
+  xy: 2, 53
+  size: 452, 265
+  orig: 452, 265
+  offset: 0, 0
+  index: -1
+p5_5_t_1
+  rotate: true
+  xy: 926, 335
+  size: 170, 89
+  orig: 170, 89
+  offset: 0, 0
+  index: -1
+p5_5_t_2
+  rotate: true
+  xy: 918, 228
+  size: 105, 76
+  orig: 105, 76
+  offset: 0, 0
+  index: -1

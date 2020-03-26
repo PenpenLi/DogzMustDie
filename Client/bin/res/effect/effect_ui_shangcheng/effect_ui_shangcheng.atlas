@@ -1,0 +1,131 @@
+
+effect_ui_shangcheng.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_shangcheng/01
+  rotate: false
+  xy: 69, 39
+  size: 12, 12
+  orig: 80, 75
+  offset: 2, 2
+  index: -1
+effect_ui_shangcheng/02
+  rotate: false
+  xy: 1, 1
+  size: 19, 22
+  orig: 80, 75
+  offset: 2, 2
+  index: -1
+effect_ui_shangcheng/03
+  rotate: false
+  xy: 234, 141
+  size: 36, 33
+  orig: 80, 75
+  offset: 1, 2
+  index: -1
+effect_ui_shangcheng/04
+  rotate: false
+  xy: 189, 124
+  size: 44, 50
+  orig: 80, 75
+  offset: 1, 2
+  index: -1
+effect_ui_shangcheng/05
+  rotate: false
+  xy: 69, 52
+  size: 59, 58
+  orig: 80, 75
+  offset: 1, 3
+  index: -1
+effect_ui_shangcheng/06
+  rotate: false
+  xy: 70, 111
+  size: 63, 65
+  orig: 80, 75
+  offset: 1, 3
+  index: -1
+effect_ui_shangcheng/07
+  rotate: false
+  xy: 210, 175
+  size: 66, 71
+  orig: 80, 75
+  offset: 2, 1
+  index: -1
+effect_ui_shangcheng/08
+  rotate: false
+  xy: 142, 176
+  size: 67, 70
+  orig: 80, 75
+  offset: 2, 1
+  index: -1
+effect_ui_shangcheng/09
+  rotate: false
+  xy: 70, 177
+  size: 71, 69
+  orig: 80, 75
+  offset: 0, 2
+  index: -1
+effect_ui_shangcheng/10
+  rotate: false
+  xy: 1, 24
+  size: 67, 72
+  orig: 80, 75
+  offset: 7, 3
+  index: -1
+effect_ui_shangcheng/11
+  rotate: false
+  xy: 1, 97
+  size: 66, 74
+  orig: 80, 75
+  offset: 8, 1
+  index: -1
+effect_ui_shangcheng/12
+  rotate: false
+  xy: 134, 110
+  size: 54, 65
+  orig: 80, 75
+  offset: 26, 8
+  index: -1
+effect_ui_shangcheng/13
+  rotate: false
+  xy: 129, 54
+  size: 62, 55
+  orig: 80, 75
+  offset: 17, 13
+  index: -1
+effect_ui_shangcheng/14
+  rotate: false
+  xy: 345, 179
+  size: 67, 67
+  orig: 80, 75
+  offset: 7, 4
+  index: -1
+effect_ui_shangcheng/15
+  rotate: false
+  xy: 1, 172
+  size: 68, 74
+  orig: 80, 75
+  offset: 5, 1
+  index: -1
+effect_ui_shangcheng/16
+  rotate: false
+  xy: 277, 177
+  size: 67, 69
+  orig: 80, 75
+  offset: 5, 2
+  index: -1
+effect_ui_shangcheng/17
+  rotate: false
+  xy: 413, 180
+  size: 66, 66
+  orig: 80, 75
+  offset: 5, 2
+  index: -1
+effect_ui_shangcheng/18
+  rotate: false
+  xy: 480, 182
+  size: 24, 64
+  orig: 80, 75
+  offset: 4, 5
+  index: -1

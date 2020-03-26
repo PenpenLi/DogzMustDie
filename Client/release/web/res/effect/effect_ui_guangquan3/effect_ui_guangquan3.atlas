@@ -1,0 +1,33 @@
+
+effect_ui_guangquan3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_guangquan3/image 1
+  rotate: false
+  xy: 1, 378
+  size: 690, 376
+  orig: 690, 376
+  offset: 0, 0
+  index: -1
+effect_ui_guangquan3/image 2
+  rotate: false
+  xy: 1, 1
+  size: 690, 376
+  orig: 690, 376
+  offset: 0, 0
+  index: -1
+effect_ui_guangquan3/image 3
+  rotate: false
+  xy: 692, 378
+  size: 690, 376
+  orig: 690, 376
+  offset: 0, 0
+  index: -1
+effect_ui_guangquan3/image 4
+  rotate: false
+  xy: 692, 1
+  size: 690, 376
+  orig: 690, 376
+  offset: 0, 0
+  index: -1

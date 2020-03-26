@@ -1,0 +1,61 @@
+
+effect_ui_tubiao2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_tubiao2/01
+  rotate: false
+  xy: 1, 1
+  size: 32, 21
+  orig: 55, 63
+  offset: 4, 39
+  index: -1
+effect_ui_tubiao2/02
+  rotate: false
+  xy: 145, 71
+  size: 33, 47
+  orig: 55, 63
+  offset: 3, 13
+  index: -1
+effect_ui_tubiao2/03
+  rotate: false
+  xy: 1, 23
+  size: 50, 46
+  orig: 55, 63
+  offset: 3, 13
+  index: -1
+effect_ui_tubiao2/04
+  rotate: false
+  xy: 52, 34
+  size: 49, 40
+  orig: 55, 63
+  offset: 4, 20
+  index: -1
+effect_ui_tubiao2/05
+  rotate: false
+  xy: 102, 38
+  size: 41, 36
+  orig: 55, 63
+  offset: 0, 27
+  index: -1
+effect_ui_tubiao2/06
+  rotate: false
+  xy: 52, 75
+  size: 50, 43
+  orig: 55, 63
+  offset: 0, 20
+  index: -1
+effect_ui_tubiao2/07
+  rotate: false
+  xy: 1, 70
+  size: 50, 48
+  orig: 55, 63
+  offset: 4, 13
+  index: -1
+effect_ui_tubiao2/08
+  rotate: false
+  xy: 103, 75
+  size: 41, 43
+  orig: 55, 63
+  offset: 14, 11
+  index: -1

@@ -1,0 +1,279 @@
+
+boss_032_jhc.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 353, 76
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 78, 0
+  size: 72, 81
+  orig: 72, 81
+  offset: 0, 0
+  index: -1
+jiao_1
+  rotate: false
+  xy: 476, 461
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+jiao_10
+  rotate: false
+  xy: 365, 308
+  size: 65, 108
+  orig: 65, 108
+  offset: 0, 0
+  index: -1
+jiao_11
+  rotate: false
+  xy: 291, 33
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+jiao_12
+  rotate: false
+  xy: 484, 380
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+jiao_13
+  rotate: false
+  xy: 291, 0
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+jiao_14
+  rotate: false
+  xy: 489, 294
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+jiao_2
+  rotate: false
+  xy: 360, 172
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+jiao_3
+  rotate: false
+  xy: 402, 143
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+jiao_4
+  rotate: false
+  xy: 0, 0
+  size: 75, 52
+  orig: 75, 53
+  offset: 0, 1
+  index: -1
+jiao_5
+  rotate: false
+  xy: 78, 81
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+jiao_6
+  rotate: false
+  xy: 176, 84
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+jiao_7
+  rotate: false
+  xy: 303, 86
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+jiao_8
+  rotate: false
+  xy: 389, 236
+  size: 51, 72
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+jiao_9
+  rotate: false
+  xy: 430, 311
+  size: 54, 105
+  orig: 54, 105
+  offset: 0, 0
+  index: -1
+kouqi_1
+  rotate: false
+  xy: 319, 230
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+kouqi_2
+  rotate: false
+  xy: 440, 243
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+kouqi_3
+  rotate: false
+  xy: 484, 339
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+kouqi_4
+  rotate: false
+  xy: 458, 51
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 184
+  size: 277, 328
+  orig: 277, 328
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 365, 416
+  size: 111, 96
+  orig: 112, 96
+  offset: 1, 0
+  index: -1
+toufa_1
+  rotate: false
+  xy: 319, 176
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+toufa_10
+  rotate: false
+  xy: 312, 56
+  size: 31, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+toufa_11
+  rotate: false
+  xy: 402, 119
+  size: 61, 24
+  orig: 61, 24
+  offset: 0, 0
+  index: -1
+toufa_12
+  rotate: false
+  xy: 415, 88
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+toufa_2
+  rotate: false
+  xy: 401, 184
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+toufa_3
+  rotate: false
+  xy: 353, 115
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+toufa_4
+  rotate: false
+  xy: 415, 54
+  size: 43, 34
+  orig: 44, 34
+  offset: 1, 0
+  index: -1
+toufa_5
+  rotate: false
+  xy: 448, 194
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+toufa_6
+  rotate: false
+  xy: 484, 313
+  size: 26, 26
+  orig: 27, 26
+  offset: 1, 0
+  index: -1
+toufa_8
+  rotate: false
+  xy: 312, 30
+  size: 26, 26
+  orig: 27, 26
+  offset: 1, 0
+  index: -1
+toufa_9
+  rotate: false
+  xy: 476, 421
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+youshou_1
+  rotate: false
+  xy: 0, 52
+  size: 78, 132
+  orig: 78, 132
+  offset: 0, 0
+  index: -1
+youshou_2
+  rotate: false
+  xy: 244, 75
+  size: 59, 101
+  orig: 59, 101
+  offset: 0, 0
+  index: -1
+youshou_3
+  rotate: false
+  xy: 207, 6
+  size: 84, 69
+  orig: 84, 69
+  offset: 0, 0
+  index: -1
+zuoshou_1
+  rotate: false
+  xy: 277, 323
+  size: 88, 189
+  orig: 88, 189
+  offset: 0, 0
+  index: -1
+zuoshou_2
+  rotate: false
+  xy: 277, 176
+  size: 42, 147
+  orig: 42, 147
+  offset: 0, 0
+  index: -1
+zuoshou_3
+  rotate: false
+  xy: 150, 0
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1

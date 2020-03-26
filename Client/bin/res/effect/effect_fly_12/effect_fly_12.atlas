@@ -1,0 +1,33 @@
+
+effect_fly_12.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_fly_12/flycannon_huojian_01
+  rotate: false
+  xy: 237, 56
+  size: 234, 48
+  orig: 256, 66
+  offset: 11, 11
+  index: -1
+effect_fly_12/flycannon_huojian_02
+  rotate: false
+  xy: 1, 52
+  size: 235, 52
+  orig: 256, 66
+  offset: 10, 8
+  index: -1
+effect_fly_12/flycannon_huojian_03
+  rotate: false
+  xy: 1, 1
+  size: 235, 50
+  orig: 256, 66
+  offset: 10, 8
+  index: -1
+effect_fly_12/flycannon_huojian_04
+  rotate: false
+  xy: 237, 8
+  size: 230, 47
+  orig: 256, 66
+  offset: 15, 11
+  index: -1

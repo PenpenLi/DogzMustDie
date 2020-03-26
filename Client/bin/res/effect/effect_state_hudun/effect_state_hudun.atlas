@@ -1,0 +1,103 @@
+
+effect_state_hudun.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_state_hudun/0340001
+  rotate: false
+  xy: 1, 259
+  size: 128, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1
+effect_state_hudun/0340015
+  rotate: false
+  xy: 1, 259
+  size: 128, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1
+effect_state_hudun/0340003
+  rotate: false
+  xy: 1, 130
+  size: 128, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1
+effect_state_hudun/0340005
+  rotate: false
+  xy: 130, 259
+  size: 128, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1
+effect_state_hudun/0340007
+  rotate: false
+  xy: 259, 130
+  size: 127, 128
+  orig: 132, 132
+  offset: 3, 2
+  index: -1
+effect_state_hudun/0340009
+  rotate: false
+  xy: 388, 259
+  size: 127, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1
+effect_state_hudun/0340011
+  rotate: false
+  xy: 259, 1
+  size: 127, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1
+effect_state_hudun/0340013
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1
+effect_state_hudun/0340017
+  rotate: false
+  xy: 130, 130
+  size: 128, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1
+effect_state_hudun/0340019
+  rotate: false
+  xy: 259, 259
+  size: 128, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1
+effect_state_hudun/0340021
+  rotate: false
+  xy: 387, 130
+  size: 127, 128
+  orig: 132, 132
+  offset: 3, 2
+  index: -1
+effect_state_hudun/0340023
+  rotate: false
+  xy: 516, 259
+  size: 127, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1
+effect_state_hudun/0340025
+  rotate: false
+  xy: 387, 1
+  size: 127, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1
+effect_state_hudun/0340027
+  rotate: false
+  xy: 130, 1
+  size: 128, 128
+  orig: 132, 132
+  offset: 2, 2
+  index: -1

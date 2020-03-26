@@ -1,0 +1,167 @@
+
+hero_016_fek.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 82, 177
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 198, 169
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+flute
+  rotate: false
+  xy: 62, 26
+  size: 18, 126
+  orig: 18, 126
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 80, 77
+  size: 88, 37
+  orig: 88, 37
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 152
+  size: 82, 103
+  orig: 82, 103
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 130, 24
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+left_calf
+  rotate: false
+  xy: 198, 192
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: false
+  xy: 193, 108
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 0, 1
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+left_thigh
+  rotate: false
+  xy: 165, 37
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+left_upper_arm
+  rotate: false
+  xy: 193, 134
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 80, 33
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+right_calf
+  rotate: false
+  xy: 82, 114
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+right_foot
+  rotate: false
+  xy: 168, 77
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 200, 69
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+right_thigh
+  rotate: false
+  xy: 141, 115
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+right_upper_arm
+  rotate: false
+  xy: 165, 0
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+skirt_3
+  rotate: false
+  xy: 142, 174
+  size: 56, 81
+  orig: 56, 81
+  offset: 0, 0
+  index: -1
+skirt_angle
+  rotate: false
+  xy: 0, 49
+  size: 62, 103
+  orig: 62, 103
+  offset: 0, 0
+  index: -1
+skirt_angle_1
+  rotate: false
+  xy: 240, 208
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+skirt_angle_2
+  rotate: false
+  xy: 238, 138
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+sleeve
+  rotate: false
+  xy: 176, 122
+  size: 17, 52
+  orig: 18, 52
+  offset: 0, 0
+  index: -1
+thumb
+  rotate: false
+  xy: 200, 46
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1

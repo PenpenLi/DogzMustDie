@@ -1,0 +1,75 @@
+
+effect_state_buzhen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_state_buzhen/00000
+  rotate: false
+  xy: 192, 91
+  size: 120, 54
+  orig: 640, 640
+  offset: 258, 294
+  index: -1
+effect_state_buzhen/00001
+  rotate: false
+  xy: 197, 146
+  size: 166, 93
+  orig: 640, 640
+  offset: 235, 294
+  index: -1
+effect_state_buzhen/00002
+  rotate: false
+  xy: 774, 220
+  size: 172, 122
+  orig: 640, 640
+  offset: 232, 306
+  index: -1
+effect_state_buzhen/00003
+  rotate: false
+  xy: 774, 343
+  size: 172, 166
+  orig: 640, 640
+  offset: 232, 302
+  index: -1
+effect_state_buzhen/00004
+  rotate: false
+  xy: 1, 1
+  size: 190, 206
+  orig: 640, 640
+  offset: 211, 274
+  index: -1
+effect_state_buzhen/00005
+  rotate: false
+  xy: 586, 282
+  size: 187, 227
+  orig: 640, 640
+  offset: 211, 274
+  index: -1
+effect_state_buzhen/00006
+  rotate: false
+  xy: 197, 240
+  size: 204, 269
+  orig: 640, 640
+  offset: 211, 274
+  index: -1
+effect_state_buzhen/00007
+  rotate: false
+  xy: 1, 208
+  size: 195, 301
+  orig: 640, 640
+  offset: 211, 268
+  index: -1
+effect_state_buzhen/00008
+  rotate: false
+  xy: 402, 253
+  size: 183, 256
+  orig: 640, 640
+  offset: 228, 278
+  index: -1
+effect_state_buzhen/00009
+  rotate: false
+  xy: 364, 69
+  size: 95, 170
+  orig: 640, 640
+  offset: 260, 307
+  index: -1

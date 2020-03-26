@@ -1,0 +1,193 @@
+[-1]16:58:36:LogServer Start!
+[00]16:58:36:district_logindex	0
+[00]16:58:36:public_logindex	nil
+[00]16:58:36:1	table: 047D6B78
+[00]16:58:36:2	table: 047D6BC8
+[00]16:58:36:3	table: 047D6BF0
+[00]16:58:36:4	table: 047D6C18
+[00]16:58:36:5	table: 047D6C40
+[00]16:58:36:6	table: 047D6C68
+[00]16:58:36:district_logindex	0
+[00]16:58:36:Publiclogdbindex	nil
+[00]16:58:36:KernelService Start!
+[01]16:58:37:DBServer start.
+[00]16:58:37:Log!!! start time.	2019	4	13	14	39	1555137579
+[00]16:58:37:LOG!!! calendar.	2019	8	30
+[00]16:58:37:Erro data overflow 1
+[00]16:58:37:Erro data overflow 1
+[00]16:58:37:Erro data overflow 1
+[00]16:58:37:Erro data overflow 1
+[00]16:58:37:Erro data overflow 1
+[00]16:58:37:Erro data overflow 3
+[00]16:58:37:Erro data overflow 3
+[00]16:58:37:Erro data overflow 3
+[00]16:58:37:Erro data overflow 3
+[00]16:58:37:Erro data overflow 3
+[00]16:58:37:self.nCurState == 	1
+[00]16:58:37:CClientListener start listen at	0.0.0.0:8888
+[00]16:58:37:error!!! can't create a listener.
+[00]16:58:37:ERROR!!! InitializeSingleton Failed	CClientListener	true	nil
+[00]16:58:37:CMasterServer Shutdown.
+[-1]16:58:37:LogServer shuting...
+[-1]16:59:49:LogServer Start!
+[00]16:59:49:district_logindex	0
+[00]16:59:49:public_logindex	nil
+[00]16:59:49:1	table: 047D6B78
+[00]16:59:49:2	table: 047D6BC8
+[00]16:59:49:3	table: 047D6BF0
+[00]16:59:49:4	table: 047D6C18
+[00]16:59:49:5	table: 047D6C40
+[00]16:59:49:6	table: 047D6C68
+[00]16:59:49:district_logindex	0
+[00]16:59:49:Publiclogdbindex	nil
+[00]16:59:49:KernelService Start!
+[01]16:59:49:DBServer start.
+[00]16:59:49:Log!!! start time.	2019	4	13	14	39	1555137579
+[00]16:59:49:LOG!!! calendar.	2019	8	30
+[00]16:59:49:Erro data overflow 1
+[00]16:59:49:Erro data overflow 1
+[00]16:59:49:Erro data overflow 1
+[00]16:59:49:Erro data overflow 1
+[00]16:59:49:Erro data overflow 1
+[00]16:59:49:Erro data overflow 3
+[00]16:59:49:Erro data overflow 3
+[00]16:59:49:Erro data overflow 3
+[00]16:59:49:Erro data overflow 3
+[00]16:59:49:Erro data overflow 3
+[00]16:59:49:self.nCurState == 	1
+[00]16:59:49:CClientListener start listen at	0.0.0.0:8888
+[00]16:59:49:error!!! can't create a listener.
+[00]16:59:49:ERROR!!! InitializeSingleton Failed	CClientListener	true	nil
+[00]16:59:49:CMasterServer Shutdown.
+[-1]16:59:49:LogServer shuting...
+[-1]17:00:38:LogServer Start!
+[00]17:00:38:district_logindex	0
+[00]17:00:38:public_logindex	nil
+[00]17:00:38:1	table: 04796B78
+[00]17:00:38:2	table: 04796BC8
+[00]17:00:38:3	table: 04796BF0
+[00]17:00:38:4	table: 04796C18
+[00]17:00:38:5	table: 04796C40
+[00]17:00:38:6	table: 04796C68
+[00]17:00:38:district_logindex	0
+[00]17:00:38:Publiclogdbindex	nil
+[00]17:00:38:KernelService Start!
+[01]17:00:38:DBServer start.
+[00]17:00:38:Log!!! start time.	2019	4	13	14	39	1555137579
+[00]17:00:38:LOG!!! calendar.	2019	8	30
+[00]17:00:38:Erro data overflow 1
+[00]17:00:38:Erro data overflow 1
+[00]17:00:38:Erro data overflow 1
+[00]17:00:38:Erro data overflow 1
+[00]17:00:38:Erro data overflow 1
+[00]17:00:38:Erro data overflow 3
+[00]17:00:38:Erro data overflow 3
+[00]17:00:38:Erro data overflow 3
+[00]17:00:38:Erro data overflow 3
+[00]17:00:38:Erro data overflow 3
+[00]17:00:38:self.nCurState == 	1
+[00]17:00:38:CClientListener start listen at	0.0.0.0:8888
+[00]17:00:38:error!!! can't create a listener.
+[00]17:00:38:ERROR!!! InitializeSingleton Failed	CClientListener	true	nil
+[00]17:00:38:CMasterServer Shutdown.
+[-1]17:00:38:LogServer shuting...
+[-1]17:00:40:LogServer Start!
+[00]17:00:40:localhost
+[00]17:00:40:7003
+[00]17:00:40:****************Debug Start ***********************
+[00]17:00:40:district_logindex	0
+[00]17:00:40:public_logindex	nil
+[00]17:00:40:1	table: 052AA260
+[00]17:00:40:2	table: 052AA3A0
+[00]17:00:40:3	table: 052AA3F0
+[00]17:00:40:4	table: 052AA440
+[00]17:00:40:5	table: 052AA490
+[00]17:00:40:6	table: 052AA4E0
+[00]17:00:40:district_logindex	0
+[00]17:00:40:Publiclogdbindex	nil
+[00]17:00:40:KernelService Start!
+[01]17:00:44:DBServer start.
+[00]17:00:44:Log!!! start time.	2019	4	13	14	39	1555137579
+[00]17:00:44:LOG!!! calendar.	2019	8	30
+[00]17:00:44:Erro data overflow 1
+[00]17:00:44:Erro data overflow 1
+[00]17:00:44:Erro data overflow 1
+[00]17:00:45:Erro data overflow 1
+[00]17:00:45:Erro data overflow 1
+[00]17:00:45:Erro data overflow 3
+[00]17:00:45:Erro data overflow 3
+[00]17:00:45:Erro data overflow 3
+[00]17:00:45:Erro data overflow 3
+[00]17:00:45:Erro data overflow 3
+[00]17:00:45:self.nCurState == 	1
+[00]17:00:45:CClientListener start listen at	0.0.0.0:8888
+[00]17:00:45:error!!! can't create a listener.
+[00]17:00:45:ERROR!!! InitializeSingleton Failed	CClientListener	true	nil
+[00]17:00:45:CMasterServer Shutdown.
+[-1]17:00:45:LogServer shuting...
+[-1]17:02:21:LogServer Start!
+[00]17:02:21:district_logindex	0
+[00]17:02:21:public_logindex	nil
+[00]17:02:21:1	table: 04756B78
+[00]17:02:21:2	table: 04756BC8
+[00]17:02:21:3	table: 04756BF0
+[00]17:02:21:4	table: 04756C18
+[00]17:02:21:5	table: 04756C40
+[00]17:02:21:6	table: 04756C68
+[00]17:02:21:district_logindex	0
+[00]17:02:21:Publiclogdbindex	nil
+[00]17:02:21:KernelService Start!
+[01]17:02:21:DBServer start.
+[00]17:02:21:Log!!! start time.	2019	4	13	14	39	1555137579
+[00]17:02:21:LOG!!! calendar.	2019	8	30
+[00]17:02:21:Erro data overflow 1
+[00]17:02:21:Erro data overflow 1
+[00]17:02:21:Erro data overflow 1
+[00]17:02:22:Erro data overflow 1
+[00]17:02:22:Erro data overflow 1
+[00]17:02:22:Erro data overflow 3
+[00]17:02:22:Erro data overflow 3
+[00]17:02:22:Erro data overflow 3
+[00]17:02:22:Erro data overflow 3
+[00]17:02:22:Erro data overflow 3
+[00]17:02:22:self.nCurState == 	1
+[00]17:02:22:CClientListener start listen at	0.0.0.0:8888
+[00]17:02:22:error!!! can't create a listener.
+[00]17:02:22:ERROR!!! InitializeSingleton Failed	CClientListener	true	nil
+[00]17:02:22:CMasterServer Shutdown.
+[-1]17:02:22:LogServer shuting...
+[-1]17:02:27:LogServer Start!
+[00]17:02:27:district_logindex	0
+[00]17:02:27:public_logindex	nil
+[00]17:02:27:1	table: 048B6B78
+[00]17:02:27:2	table: 048B6BC8
+[00]17:02:27:3	table: 048B6BF0
+[00]17:02:27:4	table: 048B6C18
+[00]17:02:27:5	table: 048B6C40
+[00]17:02:27:6	table: 048B6C68
+[00]17:02:27:district_logindex	0
+[00]17:02:27:Publiclogdbindex	nil
+[00]17:02:27:KernelService Start!
+[01]17:02:27:DBServer start.
+[00]17:02:27:Log!!! start time.	2019	4	13	14	39	1555137579
+[00]17:02:27:LOG!!! calendar.	2019	8	30
+[00]17:02:27:Erro data overflow 1
+[00]17:02:27:Erro data overflow 1
+[00]17:02:27:Erro data overflow 1
+[00]17:02:27:Erro data overflow 1
+[00]17:02:27:Erro data overflow 1
+[00]17:02:27:Erro data overflow 3
+[00]17:02:27:Erro data overflow 3
+[00]17:02:27:Erro data overflow 3
+[00]17:02:27:Erro data overflow 3
+[00]17:02:27:Erro data overflow 3
+[00]17:02:27:self.nCurState == 	1
+[00]17:02:27:CClientListener start listen at	0.0.0.0:8888
+[00]17:02:27:connect to commercial_server succeed!!!
+[00]17:02:27:LOG!!! on push activities
+[00]17:02:27:Log. parse_activity_data	9|1	9	1555084800	1641312000	1555084800	1641312000
+[00]17:02:27:Log. parse_activity_data	4|1	1	1555084800	1641312000	1555084800	1641312000
+[00]17:02:27:Log. parse_activity_data	5|1	2	1555084800	1641312000	1555084800	1641312000
+[00]17:02:27:ERROR!!! activity time err.	6|1	1555084800	1556035200	1555084800	1556035200
+[00]17:02:27:Log. parse_activity_data	7|1	7	1555084800	1641312000	1555084800	1641312000
+[00]17:02:27:Log. parse_activity_data	8|1	8	1555084800	1641312000	1555084800	1641312000

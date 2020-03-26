@@ -1,0 +1,117 @@
+
+juese.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_forearm
+  rotate: false
+  xy: 875, 185
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+L_head
+  rotate: false
+  xy: 390, 56
+  size: 120, 194
+  orig: 120, 194
+  offset: 0, 0
+  index: -1
+L_jian
+  rotate: false
+  xy: 245, 58
+  size: 145, 192
+  orig: 145, 192
+  offset: 0, 0
+  index: -1
+L_upperarm
+  rotate: false
+  xy: 830, 183
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+R_forearm
+  rotate: false
+  xy: 714, 190
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+R_upperarm
+  rotate: false
+  xy: 780, 193
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 624, 154
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 0, 48
+  size: 245, 202
+  orig: 245, 202
+  offset: 0, 0
+  index: -1
+piaodai_01
+  rotate: false
+  xy: 87, 17
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+piaodai_02
+  rotate: false
+  xy: 624, 138
+  size: 49, 16
+  orig: 49, 16
+  offset: 0, 0
+  index: -1
+piaodai_03
+  rotate: false
+  xy: 910, 195
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+piaodai_04
+  rotate: false
+  xy: 510, 74
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+spine
+  rotate: false
+  xy: 510, 127
+  size: 114, 123
+  orig: 114, 123
+  offset: 0, 0
+  index: -1
+toufa01
+  rotate: false
+  xy: 0, 0
+  size: 87, 48
+  orig: 87, 48
+  offset: 0, 0
+  index: -1
+toufa02
+  rotate: false
+  xy: 159, 17
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+toufa03
+  rotate: false
+  xy: 714, 155
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1

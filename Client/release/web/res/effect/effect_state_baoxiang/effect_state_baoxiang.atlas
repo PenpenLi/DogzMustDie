@@ -1,0 +1,110 @@
+
+effect_state_baoxiang.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_state_baoxiang/01
+  rotate: false
+  xy: 515, 286
+  size: 29, 27
+  orig: 400, 400
+  offset: 187, 169
+  index: -1
+effect_state_baoxiang/02
+  rotate: false
+  xy: 969, 277
+  size: 45, 37
+  orig: 400, 400
+  offset: 182, 165
+  index: -1
+effect_state_baoxiang/03
+  rotate: false
+  xy: 193, 39
+  size: 63, 51
+  orig: 400, 400
+  offset: 175, 159
+  index: -1
+effect_state_baoxiang/04
+  rotate: false
+  xy: 108, 25
+  size: 84, 65
+  orig: 400, 400
+  offset: 165, 154
+  index: -1
+effect_state_baoxiang/05
+  rotate: false
+  xy: 1, 9
+  size: 106, 81
+  orig: 400, 400
+  offset: 155, 148
+  index: -1
+effect_state_baoxiang/06
+  rotate: false
+  xy: 434, 4
+  size: 153, 123
+  orig: 400, 400
+  offset: 139, 125
+  index: -1
+effect_state_baoxiang/07
+  rotate: false
+  xy: 267, 1
+  size: 166, 126
+  orig: 400, 400
+  offset: 119, 137
+  index: -1
+effect_state_baoxiang/08
+  rotate: false
+  xy: 775, 171
+  size: 193, 143
+  orig: 400, 400
+  offset: 103, 131
+  index: -1
+effect_state_baoxiang/09
+  rotate: false
+  xy: 546, 161
+  size: 228, 164
+  orig: 400, 400
+  offset: 89, 123
+  index: -1
+effect_state_baoxiang/10
+  rotate: false
+  xy: 275, 128
+  size: 239, 185
+  orig: 400, 400
+  offset: 74, 117
+  index: -1
+effect_state_baoxiang/11
+  rotate: false
+  xy: 546, 326
+  size: 250, 183
+  orig: 400, 400
+  offset: 71, 121
+  index: -1
+effect_state_baoxiang/12
+  rotate: false
+  xy: 1, 91
+  size: 265, 203
+  orig: 400, 400
+  offset: 64, 104
+  index: -1
+effect_state_baoxiang/13
+  rotate: false
+  xy: 275, 314
+  size: 270, 195
+  orig: 400, 400
+  offset: 60, 116
+  index: -1
+effect_state_baoxiang/14
+  rotate: false
+  xy: 1, 295
+  size: 273, 214
+  orig: 400, 400
+  offset: 59, 102
+  index: -1
+effect_state_baoxiang/15
+  rotate: false
+  xy: 797, 315
+  size: 226, 194
+  orig: 400, 400
+  offset: 60, 116
+  index: -1

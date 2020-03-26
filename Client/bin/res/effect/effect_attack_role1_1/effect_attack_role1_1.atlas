@@ -1,0 +1,124 @@
+
+effect_attack_role1_1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_attack_role1_1/01
+  rotate: false
+  xy: 1153, 1206
+  size: 376, 279
+  orig: 384, 494
+  offset: 8, 10
+  index: -1
+effect_attack_role1_1/02
+  rotate: false
+  xy: 1153, 920
+  size: 367, 285
+  orig: 384, 494
+  offset: 13, 13
+  index: -1
+effect_attack_role1_1/03
+  rotate: false
+  xy: 771, 681
+  size: 360, 309
+  orig: 384, 494
+  offset: 12, 14
+  index: -1
+effect_attack_role1_1/04
+  rotate: false
+  xy: 386, 147
+  size: 381, 348
+  orig: 384, 494
+  offset: 3, 0
+  index: -1
+effect_attack_role1_1/05
+  rotate: false
+  xy: 1, 1486
+  size: 384, 494
+  orig: 384, 494
+  offset: 0, 0
+  index: -1
+effect_attack_role1_1/06
+  rotate: false
+  xy: 1, 991
+  size: 384, 494
+  orig: 384, 494
+  offset: 0, 0
+  index: -1
+effect_attack_role1_1/07
+  rotate: false
+  xy: 386, 1486
+  size: 384, 494
+  orig: 384, 494
+  offset: 0, 0
+  index: -1
+effect_attack_role1_1/08
+  rotate: false
+  xy: 1, 496
+  size: 384, 494
+  orig: 384, 494
+  offset: 0, 0
+  index: -1
+effect_attack_role1_1/09
+  rotate: false
+  xy: 386, 991
+  size: 384, 494
+  orig: 384, 494
+  offset: 0, 0
+  index: -1
+effect_attack_role1_1/10
+  rotate: false
+  xy: 771, 1486
+  size: 384, 494
+  orig: 384, 494
+  offset: 0, 0
+  index: -1
+effect_attack_role1_1/11
+  rotate: false
+  xy: 1, 1
+  size: 384, 494
+  orig: 384, 494
+  offset: 0, 0
+  index: -1
+effect_attack_role1_1/12
+  rotate: false
+  xy: 386, 496
+  size: 384, 494
+  orig: 384, 494
+  offset: 0, 0
+  index: -1
+effect_attack_role1_1/13
+  rotate: false
+  xy: 771, 991
+  size: 381, 494
+  orig: 384, 494
+  offset: 3, 0
+  index: -1
+effect_attack_role1_1/14
+  rotate: false
+  xy: 1156, 1486
+  size: 373, 494
+  orig: 384, 494
+  offset: 11, 0
+  index: -1
+effect_attack_role1_1/15
+  rotate: false
+  xy: 1530, 1547
+  size: 220, 433
+  orig: 384, 494
+  offset: 93, 53
+  index: -1
+effect_attack_role1_1/16
+  rotate: false
+  xy: 771, 523
+  size: 158, 157
+  orig: 384, 494
+  offset: 93, 244
+  index: -1
+effect_attack_role1_1/17
+  rotate: false
+  xy: 1530, 1390
+  size: 157, 156
+  orig: 384, 494
+  offset: 94, 244
+  index: -1

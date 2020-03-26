@@ -1,0 +1,132 @@
+
+zhulin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuzhi_1
+  rotate: false
+  xy: 105, 233
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+shuzhi_2
+  rotate: false
+  xy: 271, 243
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+shuzhi_3
+  rotate: false
+  xy: 199, 241
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+shuzhi_4
+  rotate: false
+  xy: 367, 368
+  size: 78, 97
+  orig: 78, 97
+  offset: 0, 0
+  index: -1
+shuzhi_5
+  rotate: false
+  xy: 446, 486
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+shuzhi_6
+  rotate: false
+  xy: 2, 2
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+shuzhi_7
+  rotate: false
+  xy: 980, 967
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+yezi_1
+  rotate: false
+  xy: 560, 643
+  size: 255, 167
+  orig: 255, 167
+  offset: 0, 0
+  index: -1
+yezi_2
+  rotate: false
+  xy: 837, 760
+  size: 141, 258
+  orig: 141, 258
+  offset: 0, 0
+  index: -1
+yezi_3
+  rotate: false
+  xy: 211, 323
+  size: 154, 131
+  orig: 154, 131
+  offset: 0, 0
+  index: -1
+yezi_4
+  rotate: false
+  xy: 560, 499
+  size: 222, 142
+  orig: 222, 142
+  offset: 0, 0
+  index: -1
+yezi_5
+  rotate: false
+  xy: 560, 812
+  size: 275, 206
+  orig: 275, 206
+  offset: 0, 0
+  index: -1
+yezi_6
+  rotate: false
+  xy: 2, 43
+  size: 145, 153
+  orig: 145, 153
+  offset: 0, 0
+  index: -1
+zhugan_1
+  rotate: false
+  xy: 2, 198
+  size: 101, 820
+  orig: 101, 820
+  offset: 0, 0
+  index: -1
+zhugan_2
+  rotate: false
+  xy: 105, 339
+  size: 104, 679
+  orig: 104, 679
+  offset: 0, 0
+  index: -1
+zhugan_3
+  rotate: false
+  xy: 446, 544
+  size: 112, 474
+  orig: 112, 474
+  offset: 0, 0
+  index: -1
+zhugan_4
+  rotate: false
+  xy: 211, 456
+  size: 148, 562
+  orig: 148, 562
+  offset: 0, 0
+  index: -1
+zhugan_5
+  rotate: false
+  xy: 361, 467
+  size: 83, 551
+  orig: 83, 551
+  offset: 0, 0
+  index: -1

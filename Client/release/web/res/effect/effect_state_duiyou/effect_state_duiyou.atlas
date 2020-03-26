@@ -1,0 +1,47 @@
+
+effect_state_duiyou.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_state_duiyou/0_00000
+  rotate: false
+  xy: 1, 297
+  size: 153, 151
+  orig: 450, 450
+  offset: 137, 193
+  index: -1
+effect_state_duiyou/0_00001
+  rotate: false
+  xy: 1, 1
+  size: 149, 145
+  orig: 450, 450
+  offset: 139, 198
+  index: -1
+effect_state_duiyou/0_00002
+  rotate: false
+  xy: 155, 160
+  size: 156, 142
+  orig: 450, 450
+  offset: 143, 200
+  index: -1
+effect_state_duiyou/0_00003
+  rotate: false
+  xy: 155, 303
+  size: 155, 145
+  orig: 450, 450
+  offset: 146, 201
+  index: -1
+effect_state_duiyou/0_00004
+  rotate: false
+  xy: 1, 147
+  size: 149, 149
+  orig: 450, 450
+  offset: 150, 198
+  index: -1
+effect_state_duiyou/0_00005
+  rotate: false
+  xy: 311, 303
+  size: 154, 145
+  orig: 450, 450
+  offset: 140, 200
+  index: -1

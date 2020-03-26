@@ -1,0 +1,68 @@
+
+effect_ui_guangquan2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_guangquan2/01
+  rotate: false
+  xy: 1, 393
+  size: 365, 48
+  orig: 365, 48
+  offset: 0, 0
+  index: -1
+effect_ui_guangquan2/02
+  rotate: false
+  xy: 1, 344
+  size: 365, 48
+  orig: 365, 48
+  offset: 0, 0
+  index: -1
+effect_ui_guangquan2/03
+  rotate: false
+  xy: 1, 295
+  size: 365, 48
+  orig: 365, 48
+  offset: 0, 0
+  index: -1
+effect_ui_guangquan2/04
+  rotate: false
+  xy: 1, 246
+  size: 365, 48
+  orig: 365, 48
+  offset: 0, 0
+  index: -1
+effect_ui_guangquan2/05
+  rotate: false
+  xy: 1, 197
+  size: 365, 48
+  orig: 365, 48
+  offset: 0, 0
+  index: -1
+effect_ui_guangquan2/06
+  rotate: false
+  xy: 1, 148
+  size: 365, 48
+  orig: 365, 48
+  offset: 0, 0
+  index: -1
+effect_ui_guangquan2/07
+  rotate: false
+  xy: 1, 99
+  size: 365, 48
+  orig: 365, 48
+  offset: 0, 0
+  index: -1
+effect_ui_guangquan2/08
+  rotate: false
+  xy: 1, 50
+  size: 365, 48
+  orig: 365, 48
+  offset: 0, 0
+  index: -1
+effect_ui_guangquan2/10
+  rotate: false
+  xy: 1, 1
+  size: 365, 48
+  orig: 365, 48
+  offset: 0, 0
+  index: -1

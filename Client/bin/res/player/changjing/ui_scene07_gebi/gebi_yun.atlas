@@ -1,0 +1,55 @@
+
+gebi_yun.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+red
+  rotate: false
+  xy: 381, 330
+  size: 118, 53
+  orig: 118, 53
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 381, 385
+  size: 157, 59
+  orig: 157, 59
+  offset: 0, 0
+  index: -1
+yun_1
+  rotate: false
+  xy: 2, 2
+  size: 274, 77
+  orig: 274, 77
+  offset: 0, 0
+  index: -1
+yun_2
+  rotate: false
+  xy: 2, 81
+  size: 336, 166
+  orig: 336, 166
+  offset: 0, 0
+  index: -1
+yun_3
+  rotate: false
+  xy: 2, 249
+  size: 377, 195
+  orig: 377, 195
+  offset: 0, 0
+  index: -1
+yun_4
+  rotate: false
+  xy: 587, 471
+  size: 357, 521
+  orig: 357, 521
+  offset: 0, 0
+  index: -1
+yun_5
+  rotate: false
+  xy: 2, 446
+  size: 583, 546
+  orig: 583, 546
+  offset: 0, 0
+  index: -1

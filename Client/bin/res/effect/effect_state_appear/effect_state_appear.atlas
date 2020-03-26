@@ -1,0 +1,75 @@
+
+effect_state_appear.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_state_appear/11
+  rotate: false
+  xy: 1, 56
+  size: 166, 103
+  orig: 260, 430
+  offset: 46, 327
+  index: -1
+effect_state_appear/13
+  rotate: false
+  xy: 337, 176
+  size: 168, 399
+  orig: 265, 432
+  offset: 48, 31
+  index: -1
+effect_state_appear/15
+  rotate: false
+  xy: 1, 160
+  size: 171, 429
+  orig: 260, 430
+  offset: 44, 1
+  index: -1
+effect_state_appear/17
+  rotate: false
+  xy: 262, 576
+  size: 165, 426
+  orig: 260, 430
+  offset: 47, 4
+  index: -1
+effect_state_appear/19
+  rotate: false
+  xy: 173, 156
+  size: 163, 419
+  orig: 260, 430
+  offset: 47, 9
+  index: -1
+effect_state_appear/21
+  rotate: false
+  xy: 1, 590
+  size: 260, 412
+  orig: 260, 430
+  offset: 0, 15
+  index: -1
+effect_state_appear/3
+  rotate: false
+  xy: 337, 58
+  size: 96, 29
+  orig: 260, 430
+  offset: 81, 372
+  index: -1
+effect_state_appear/5
+  rotate: false
+  xy: 1, 1
+  size: 132, 54
+  orig: 260, 430
+  offset: 62, 367
+  index: -1
+effect_state_appear/7
+  rotate: false
+  xy: 337, 88
+  size: 156, 87
+  orig: 260, 430
+  offset: 52, 341
+  index: -1
+effect_state_appear/9
+  rotate: false
+  xy: 168, 55
+  size: 168, 100
+  orig: 260, 430
+  offset: 45, 330
+  index: -1

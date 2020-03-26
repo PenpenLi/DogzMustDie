@@ -1,0 +1,117 @@
+
+effect_state_shifa2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_state_shifa2/合成 1_00000
+  rotate: false
+  xy: 485, 130
+  size: 241, 112
+  orig: 250, 140
+  offset: 4, 8
+  index: -1
+effect_state_shifa2/合成 1_00001
+  rotate: false
+  xy: 484, 17
+  size: 241, 112
+  orig: 250, 140
+  offset: 4, 8
+  index: -1
+effect_state_shifa2/合成 1_00002
+  rotate: false
+  xy: 485, 361
+  size: 241, 116
+  orig: 250, 140
+  offset: 4, 7
+  index: -1
+effect_state_shifa2/合成 1_00003
+  rotate: false
+  xy: 1, 1
+  size: 241, 116
+  orig: 250, 140
+  offset: 4, 7
+  index: -1
+effect_state_shifa2/合成 1_00004
+  rotate: false
+  xy: 727, 130
+  size: 240, 113
+  orig: 250, 140
+  offset: 4, 8
+  index: -1
+effect_state_shifa2/合成 1_00005
+  rotate: false
+  xy: 243, 122
+  size: 240, 117
+  orig: 250, 140
+  offset: 4, 6
+  index: -1
+effect_state_shifa2/合成 1_00006
+  rotate: false
+  xy: 485, 243
+  size: 240, 117
+  orig: 250, 140
+  offset: 4, 6
+  index: -1
+effect_state_shifa2/合成 1_00007
+  rotate: false
+  xy: 243, 3
+  size: 238, 118
+  orig: 250, 140
+  offset: 4, 5
+  index: -1
+effect_state_shifa2/合成 1_00008
+  rotate: false
+  xy: 1, 358
+  size: 241, 119
+  orig: 250, 140
+  offset: 4, 4
+  index: -1
+effect_state_shifa2/合成 1_00009
+  rotate: false
+  xy: 1, 238
+  size: 241, 119
+  orig: 250, 140
+  offset: 4, 4
+  index: -1
+effect_state_shifa2/合成 1_00010
+  rotate: false
+  xy: 243, 358
+  size: 241, 119
+  orig: 250, 140
+  offset: 4, 4
+  index: -1
+effect_state_shifa2/合成 1_00011
+  rotate: false
+  xy: 1, 118
+  size: 241, 119
+  orig: 250, 140
+  offset: 4, 4
+  index: -1
+effect_state_shifa2/合成 1_00012
+  rotate: false
+  xy: 243, 240
+  size: 241, 117
+  orig: 250, 140
+  offset: 4, 6
+  index: -1
+effect_state_shifa2/合成 1_00013
+  rotate: false
+  xy: 727, 361
+  size: 241, 116
+  orig: 250, 140
+  offset: 4, 7
+  index: -1
+effect_state_shifa2/合成 1_00014
+  rotate: false
+  xy: 726, 244
+  size: 241, 116
+  orig: 250, 140
+  offset: 4, 7
+  index: -1
+effect_state_shifa2/合成 1_00015
+  rotate: false
+  xy: 726, 13
+  size: 241, 116
+  orig: 250, 140
+  offset: 4, 7
+  index: -1

@@ -1,0 +1,93 @@
+﻿ALTER TABLE `characters`
+ADD COLUMN `mac`  char(255) NOT NULL DEFAULT '' COMMENT '玩家mac地址' AFTER `onserver`;
+
+CREATE TABLE `lock_mac` (
+`mac`  char(255) NULL ,
+`roleid`  char(32) NULL ,
+`lockdate`  bigint NOT NULL ,
+`reason`  varchar(4096) NOT NULL ,
+`serverid`  int NOT NULL ,
+PRIMARY KEY (`mac`, `roleid`)
+)
+;
+
+CREATE TABLE `globalinfo` (
+`playerserviceindex`  int(11) UNSIGNED NOT NULL DEFAULT 0 COMMENT 'playerservice唯一id');
+
+insert into `globalinfo` values(0);
+
+ALTER TABLE `globalinfo`
+ADD COLUMN `rechargeserviceindex`  bigint(20) NOT NULL DEFAULT 0 COMMENT '用于生成虚拟充值订单号' AFTER `playerserviceindex`;
+
+
+CREATE TABLE `always_notice` (
+`serverid`  int(11) UNSIGNED NOT NULL DEFAULT 0 ,
+`content`  varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT '' COMMENT '常驻公告内容' ,
+`link`  varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT '' ,
+`linkname`  char(32) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT '' ,
+PRIMARY KEY (`serverid`)
+);
+
+
+CREATE TABLE `activity_record` (
+`serverid`  int NOT NULL COMMENT '服务器id' ,
+`roleid`  char(255) NOT NULL COMMENT '参与活动roleid' ,
+`actionid`  char(255) NOT NULL COMMENT '活动id' ,
+`actiontype`  char(255) NOT NULL COMMENT '活动类型' ,
+`index`  int NOT NULL ,
+`info`  char(255) NOT NULL COMMENT '附加信息' ,
+`gold`  int NOT NULL COMMENT '消耗元宝' ,
+`time`  bigint NOT NULL COMMENT '记录时间' 
+)
+;
+
+CREATE TABLE `virtual_recharge` (
+  `idx` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `serverid` int(11) NOT NULL DEFAULT '0',
+  `roleid` char(32) NOT NULL,
+  `rolename` char(32) NOT NULL,
+  `pfid` char(32) NOT NULL,
+  `orderid` bigint(20) unsigned NOT NULL DEFAULT '0' COMMENT '订单号',
+  `coins` bigint(20) NOT NULL DEFAULT '0' COMMENT '游戏币数',
+  `money` bigint(20) NOT NULL DEFAULT '0' COMMENT '单位（元）',
+  `oper` char(16) NOT NULL,
+  `ts` bigint(20) NOT NULL COMMENT '操作时间',
+  `state` tinyint(4) NOT NULL DEFAULT '0' COMMENT '0为充值失败1为充值成功',
+  PRIMARY KEY (`idx`),
+  KEY `character_roleid` (`roleid`) USING BTREE
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+ALTER TABLE `characters`
+ADD COLUMN `todaytime`  bigint NOT NULL DEFAULT 0 COMMENT '当天在线时长' AFTER `mac`;
+
+ALTER TABLE `pfcode`
+MODIFY COLUMN `maintype`  smallint(10) UNSIGNED NOT NULL COMMENT '主类型' AFTER `code`;
+
+CREATE TABLE `welfare` (
+  `idx` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `serverid` int(11) NOT NULL DEFAULT '0',
+  `pfid` char(32) NOT NULL,
+  `roleid` char(32) NOT NULL,
+  `rolename` char(32) NOT NULL,
+  `oper` char(16) NOT NULL,
+  `ts` bigint(20) NOT NULL,
+  PRIMARY KEY (`idx`),
+  KEY `character_roleid` (`roleid`) USING BTREE
+) DEFAULT CHARSET=utf8;
+
+
+CREATE TABLE `lotto` (
+  `idx` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `actid` char(32) NOT NULL,
+  `index` int(10) unsigned NOT NULL,
+  `time` bigint(20) unsigned NOT NULL,
+  `number` int(10) unsigned NOT NULL,
+  `serverid` int(10) unsigned NOT NULL,
+  `roleid` char(32) NOT NULL,
+  `name` char(32) NOT NULL,
+  `viplv` int(11) NOT NULL,
+  `ts` bigint(20) NOT NULL,
+  `lucky` tinyint(3) unsigned NOT NULL DEFAULT '0',
+  PRIMARY KEY (`idx`),
+  KEY `index_lotto` (`actid`,`index`,`time`)
+);

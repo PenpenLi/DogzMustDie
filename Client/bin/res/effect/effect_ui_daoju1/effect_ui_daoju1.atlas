@@ -1,0 +1,75 @@
+
+effect_ui_daoju1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_daoju1/Broken_stars_001
+  rotate: false
+  xy: 126, 52
+  size: 64, 65
+  orig: 220, 220
+  offset: 83, 81
+  index: -1
+effect_ui_daoju1/Broken_stars_002
+  rotate: false
+  xy: 380, 325
+  size: 76, 75
+  orig: 220, 220
+  offset: 78, 76
+  index: -1
+effect_ui_daoju1/Broken_stars_003
+  rotate: false
+  xy: 380, 401
+  size: 101, 95
+  orig: 220, 220
+  offset: 66, 65
+  index: -1
+effect_ui_daoju1/Broken_stars_004
+  rotate: false
+  xy: 1, 1
+  size: 124, 116
+  orig: 220, 220
+  offset: 55, 54
+  index: -1
+effect_ui_daoju1/Broken_stars_005
+  rotate: false
+  xy: 369, 184
+  size: 142, 134
+  orig: 220, 220
+  offset: 46, 45
+  index: -1
+effect_ui_daoju1/Broken_stars_006
+  rotate: false
+  xy: 193, 4
+  size: 159, 150
+  orig: 220, 220
+  offset: 38, 37
+  index: -1
+effect_ui_daoju1/Broken_stars_007
+  rotate: false
+  xy: 196, 155
+  size: 172, 163
+  orig: 220, 220
+  offset: 32, 30
+  index: -1
+effect_ui_daoju1/Broken_stars_008
+  rotate: false
+  xy: 196, 319
+  size: 183, 177
+  orig: 220, 220
+  offset: 27, 25
+  index: -1
+effect_ui_daoju1/Broken_stars_009
+  rotate: false
+  xy: 1, 118
+  size: 191, 185
+  orig: 220, 220
+  offset: 23, 21
+  index: -1
+effect_ui_daoju1/Broken_stars_010
+  rotate: false
+  xy: 1, 304
+  size: 194, 192
+  orig: 220, 220
+  offset: 21, 18
+  index: -1

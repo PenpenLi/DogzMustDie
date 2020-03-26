@@ -1,0 +1,97 @@
+
+haidi.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qipao_1
+  rotate: false
+  xy: 2, 2
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+qipao_10
+  rotate: false
+  xy: 212, 43
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+qipao_2
+  rotate: false
+  xy: 153, 35
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+qipao_3
+  rotate: true
+  xy: 83, 10
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+qipao_4
+  rotate: false
+  xy: 64, 11
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+qipao_40
+  rotate: false
+  xy: 83, 35
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+qipao_41
+  rotate: false
+  xy: 197, 43
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+qipao_42
+  rotate: false
+  xy: 175, 21
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+qipao_5
+  rotate: false
+  xy: 138, 13
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+qipao_6
+  rotate: false
+  xy: 160, 21
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+qipao_7
+  rotate: false
+  xy: 115, 13
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+qipao_8
+  rotate: true
+  xy: 121, 35
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+qipao_9
+  rotate: false
+  xy: 175, 35
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

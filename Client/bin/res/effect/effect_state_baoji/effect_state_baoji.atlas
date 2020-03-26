@@ -1,0 +1,40 @@
+
+effect_state_baoji.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_state_baoji/01
+  rotate: false
+  xy: 122, 197
+  size: 121, 130
+  orig: 256, 256
+  offset: 65, 58
+  index: -1
+effect_state_baoji/02
+  rotate: false
+  xy: 122, 328
+  size: 116, 137
+  orig: 256, 256
+  offset: 70, 56
+  index: -1
+effect_state_baoji/03
+  rotate: false
+  xy: 1, 1
+  size: 113, 138
+  orig: 256, 256
+  offset: 73, 58
+  index: -1
+effect_state_baoji/04
+  rotate: false
+  xy: 1, 302
+  size: 120, 163
+  orig: 256, 256
+  offset: 66, 47
+  index: -1
+effect_state_baoji/05
+  rotate: false
+  xy: 1, 140
+  size: 113, 161
+  orig: 256, 256
+  offset: 73, 55
+  index: -1

@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset='utf-8' />
+	<title>贴吧英雄传</title>
+	<meta name='viewport' content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no'
+	/>
+	<meta name="renderer" content="webkit"/>
+	<meta name='apple-mobile-web-app-capable' content='yes' />
+	<meta name='full-screen' content='true' />
+	<meta name='x5-fullscreen' content='true' />
+	<meta name='360-fullscreen' content='true' />
+	<meta name="laya" screenorientation ="landscape"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<meta http-equiv='expires' content='0' />
+	<meta http-equiv="Cache-Control" content="no-siteapp"/>
+</head>
+
+<body bgcolor="#000000">
+	<!--以下引用了常用类库，如果不使用，可以删除-->
+
+	<!--核心包，封装了显示对象渲染，事件，时间管理，时间轴动画，缓动，消息交互,socket，本地存储，鼠标触摸，声音，加载，颜色滤镜，位图字体等-->
+	<script type="text/javascript" src="libs/laya.core.js"></script>
+	<!--提供了微信小游戏的适配-->
+	<script type="text/javascript" src="libs/laya.wxmini.js"></script>
+	<!--封装了webgl渲染管线，如果使用webgl渲染，可以在初始化时调用Laya.init(1000,800,laya.webgl.WebGL);-->
+    <script type="text/javascript" src="libs/laya.webgl.js"></script>
+	<!--是动画模块，包含了swf动画，骨骼动画等-->
+    <script type="text/javascript" src="libs/laya.ani.js"></script>
+	<!--包含更多webgl滤镜，比如外发光，阴影，模糊以及更多-->
+    <script type="text/javascript" src="libs/laya.filter.js"></script>
+	<!--封装了html动态排版功能-->
+    <script type="text/javascript" src="libs/laya.html.js"></script>
+	<!--粒子类库-->
+    <script type="text/javascript" src="libs/laya.particle.js"></script>
+	<!--提供tileMap解析支持-->
+    <script type="text/javascript" src="libs/laya.tiledmap.js"></script>
+	<!--提供了制作UI的各种组件实现-->
+    <script type="text/javascript" src="libs/laya.ui.js"></script>
+	<!--压缩工具-->
+	<script type="text/javascript" src="libs/zlib.min.js"></script>
+	<!-- 物理引擎matter.js -->
+	<!--用户自定义顺序文件添加到这里-->
+	<script charset='UTF-8' src='https://b.bdstatic.com/searchbox/icms/searchbox/js/swan-2.0.2.js'></script>
+	<script type="text/javascript" src="libs/md5.js"></script>
+	<!--jsfile--Custom-->
+	<script src="js/engine/common/Interface.js"></script>
+	<script src="js/engine/common/Base.js"></script>
+	<script src="js/engine/common/Debugger.js"></script>
+	<script src="js/engine/common/DoubleLink.js"></script>
+	<script src="js/engine/common/Time.js"></script>
+	<script src="js/engine/common/Event.js"></script>
+	<script src="js/engine/common/Tick.js"></script>
+	<!--jsfile--Custom-->
+	<!--自定义的js(src文件夹下)文件自动添加到下面jsfile模块标签里面里-->
+	<!--删除标签，ide不会自动添加js文件，请谨慎操作-->
+	<!--jsfile--startTag-->
+	<script src="js/view/share/vo/ShareRewardVo.js"></script>
+	<script src="js/view/share/vo/InvitationVo.js"></script>
+	<script src="js/view/setting/vo/HeadVo.js"></script>
+	<script src="js/view/main/skill/SkillVo.js"></script>
+	<script src="js/view/main/skill/SkillModel.js"></script>
+	<script src="js/view/main/skill/CaptainSkill.js"></script>
+	<script src="js/view/main/list/action/vo/ActionVo.js"></script>
+	<script src="js/view/main/list/action/ActionRewordModel.js"></script>
+	<script src="js/view/main/list/action/ActionModel.js"></script>
+	<script src="js/view/action/memory/MemoryArrangement.js"></script>
+	<script src="js/view/action/kicking/vo/PvpRoomVo.js"></script>
+	<script src="js/platform/WxSdk/wxSDKMgr.js"></script>
+	<script src="js/platform/WxSdk/wxSDKBase.js"></script>
+	<script src="js/platform/WxSdk/wxCfgData.js"></script>
+	<script src="js/platform/PfLog.js"></script>
+	<script src="js/platform/LySdk/SDKLOGENUM.js"></script>
+	<script src="js/platform/LySdk/lySDKMgr.js"></script>
+	<script src="js/platform/LySdk/lySDKBase.js"></script>
+	<script src="js/game/skill/SelectTarget.js"></script>
+	<script src="js/game/skill/PlaySkill.js"></script>
+	<script src="js/game/skill/PassiveSkillData.js"></script>
+	<script src="js/game/skill/ConditionsPassiveSkill.js"></script>
+	<script src="js/game/skill/AttributePassiveManager.js"></script>
+	<script src="js/game/skill/activeSkill/TapSkill.js"></script>
+	<script src="js/game/skill/activeSkill/SkillObject.js"></script>
+	<script src="js/game/skill/activeSkill/SkillNone.js"></script>
+	<script src="js/game/skill/activeSkill/SkillData.js"></script>
+	<script src="js/game/skill/activeSkill/SkillDamage.js"></script>
+	<script src="js/game/skill/activeSkill/SkillBuff.js"></script>
+	<script src="js/game/skill/activeSkill/Skill.js"></script>
+	<script src="js/game/Pvp/Skill/PSkillObject.js"></script>
+	<script src="js/game/Pvp/Skill/PSkillNone.js"></script>
+	<script src="js/game/Pvp/Skill/PSkill.js"></script>
+	<script src="js/game/Pvp/Data/PPlayerInfo.js"></script>
+	<script src="js/game/Pvp/Data/PPetInfo.js"></script>
+	<script src="js/game/Pvp/Data/PheroInfo.js"></script>
+	<script src="js/game/Pvp/Data/PCampInfo.js"></script>
+	<script src="js/game/Pvp/Data/DataUnPack.js"></script>
+	<script src="js/game/Pvp/Data/DataPack.js"></script>
+	<script src="js/game/Pvp/Data/DataManager.js"></script>
+	<script src="js/game/Pvp/Data/CharacterData.js"></script>
+	<script src="js/game/Pvp/Character/PvPCharacter.js"></script>
+	<script src="js/game/Pvp/Character/PPlayer.js"></script>
+	<script src="js/game/Pvp/Character/PPetManager.js"></script>
+	<script src="js/game/Pvp/Character/PHeroCradMgr.js"></script>
+	<script src="js/game/Pvp/Character/PCampManager.js"></script>
+	<script src="js/game/Pvp/Character/DamageShow.js"></script>
+	<script src="js/game/Pvp/Character/Character.js"></script>
+	<script src="js/game/Pvp/Buff/PSkillBuff.js"></script>
+	<script src="js/game/Pvp/Buff/PBuffEffect.js"></script>
+	<script src="js/game/Pvp/Buff/PBuffAvatar.js"></script>
+	<script src="js/game/Pvp/Buff/PBuff.js"></script>
+	<script src="js/game/Pvp/Battle/PPetAttributeAdd.js"></script>
+	<script src="js/game/Pvp/Battle/POAttribute.js"></script>
+	<script src="js/game/Pvp/Battle/PConditionsPassiveSkill.js"></script>
+	<script src="js/game/Pvp/Battle/PAttribute.js"></script>
+	<script src="js/game/Pvp/Battle/PAIOperation.js"></script>
+	<script src="js/game/Pvp/Battle/BattlefieldManager.js"></script>
+	<script src="js/game/Pet/PetManager.js"></script>
+	<script src="js/game/Pet/PetInfos.js"></script>
+	<script src="js/game/logic/viewUI/ViewUILogic.js"></script>
+	<script src="js/game/logic/viewUI/SettingLogic.js"></script>
+	<script src="js/game/logic/viewUI/MainRoleLogic.js"></script>
+	<script src="js/game/logic/signIn/SignInLogic.js"></script>
+	<script src="js/game/logic/shop/ShopLogic.js"></script>
+	<script src="js/game/logic/share/ShareLogic.js"></script>
+	<script src="js/game/logic/share/InvitationLogic.js"></script>
+	<script src="js/game/logic/rank/RankLogic.js"></script>
+	<script src="js/game/logic/Mail/MailLogic.js"></script>
+	<script src="js/game/logic/Mail/MailItem.js"></script>
+	<script src="js/game/logic/Mail/ItemData.js"></script>
+	<script src="js/game/logic/login/LoginLogic.js"></script>
+	<script src="js/game/logic/fund/FundLogic.js"></script>
+	<script src="js/game/logic/fight/FightLogic.js"></script>
+	<script src="js/game/logic/Chat/InteractLogic.js"></script>
+	<script src="js/game/logic/Chat/ChatLogic.js"></script>
+	<script src="js/game/logic/Chat/ChatData.js"></script>
+	<script src="js/game/logic/background/BackgroundLogic.js"></script>
+	<script src="js/game/logic/adcertising/AdvertisingManager.js"></script>
+	<script src="js/game/logic/action/WroldBossLogic.js"></script>
+	<script src="js/game/logic/action/TopicLogic.js"></script>
+	<script src="js/game/logic/action/MemoryLogic.js"></script>
+	<script src="js/game/logic/action/MatchLogic.js"></script>
+	<script src="js/game/logic/action/MainActionLogic.js"></script>
+	<script src="js/game/logic/action/KickingLogic.js"></script>
+	<script src="js/game/Ladder/LadderManager.js"></script>
+	<script src="js/game/hero/vo/HeroManager.js"></script>
+	<script src="js/game/hero/vo/HeroHandbookManager.js"></script>
+	<script src="js/game/hero/HeroPosition.js"></script>
+	<script src="js/game/hero/HeroInfo.js"></script>
+	<script src="js/game/guidance/Guidance.js"></script>
+	<script src="js/game/GameOver/ProfManager.js"></script>
+	<script src="js/game/equip/PackModule.js"></script>
+	<script src="js/game/equip/EquipVo.js"></script>
+	<script src="js/game/equip/EquipSuitManager.js"></script>
+	<script src="js/game/equip/EquipManager.js"></script>
+	<script src="js/game/effect/EffectManager.js"></script>
+	<script src="js/game/effect/DropManager.js"></script>
+	<script src="js/game/effect/DropCoin.js"></script>
+	<script src="js/game/effect/DropBox.js"></script>
+	<script src="js/game/customs/vo/CustomsVo.js"></script>
+	<script src="js/game/customs/scene/vo/SceneVo.js"></script>
+	<script src="js/game/customs/scene/SceneManager.js"></script>
+	<script src="js/game/customs/reward/Reward.js"></script>
+	<script src="js/game/customs/monster/vo/MonsterVo.js"></script>
+	<script src="js/game/customs/monster/MonsterManager.js"></script>
+	<script src="js/game/customs/CustomsManager.js"></script>
+	<script src="js/game/core/UIManager.js"></script>
+	<script src="js/game/core/SoundManager.js"></script>
+	<script src="js/game/core/SDKManagerts.js"></script>
+	<script src="js/game/core/ResourceManager.js"></script>
+	<script src="js/game/core/GameLink.js"></script>
+	<script src="js/game/core/GameApplication.js"></script>
+	<script src="js/game/core/BaiDuSDK.js"></script>
+	<script src="js/game/core/Animation.js"></script>
+	<script src="js/game/common/TipsLogic.js"></script>
+	<script src="js/game/common/StringConfig.js"></script>
+	<script src="js/game/common/SensitiveWord.js"></script>
+	<script src="js/game/common/NoticeLogic.js"></script>
+	<script src="js/game/common/InstMsg.js"></script>
+	<script src="js/game/common/GameConfig.js"></script>
+	<script src="js/game/common/ConfigSystem.js"></script>
+	<script src="js/game/common/ComFunction.js"></script>
+	<script src="js/game/common/Cartridge.js"></script>
+	<script src="js/game/common/CacheManager.js"></script>
+	<script src="js/game/camp/CampManager.js"></script>
+	<script src="js/game/bubble/BubbleManager.js"></script>
+	<script src="js/game/battle/StateOperation.js"></script>
+	<script src="js/game/battle/ModfiyAttribute.js"></script>
+	<script src="js/game/battle/MHAManager.js"></script>
+	<script src="js/game/battle/MapHeroAttribute.js"></script>
+	<script src="js/game/battle/MapAttrbute.js"></script>
+	<script src="js/game/battle/Formation.js"></script>
+	<script src="js/game/battle/Floating.js"></script>
+	<script src="js/game/battle/Effect.js"></script>
+	<script src="js/game/battle/CopyCond.js"></script>
+	<script src="js/game/battle/Buff/PrivilegeBuff.js"></script>
+	<script src="js/game/battle/Buff/BuffEffect.js"></script>
+	<script src="js/game/battle/Buff/BuffData.js"></script>
+	<script src="js/game/battle/Buff/BuffAvatar.js"></script>
+	<script src="js/game/battle/Buff/Buff.js"></script>
+	<script src="js/game/battle/BattleManager.js"></script>
+	<script src="js/game/battle/AttributeValue.js"></script>
+	<script src="js/game/battle/Attribute.js"></script>
+	<script src="js/game/battle/AIOperation.js"></script>
+	<script src="js/game/bag/vo/ItemVo.js"></script>
+	<script src="js/game/bag/vo/ItemModel.js"></script>
+	<script src="js/game/bag/BagManager.js"></script>
+	<script src="js/game/bag/BagData.js"></script>
+	<script src="js/game/avatar/PlayerVo.js"></script>
+	<script src="js/game/avatar/Player.js"></script>
+	<script src="js/game/avatar/MasterPlayer.js"></script>
+	<script src="js/game/avatar/HeroCardManager.js"></script>
+	<script src="js/game/avatar/BPetVo.js"></script>
+	<script src="js/game/avatar/BPetManager.js"></script>
+	<script src="js/game/avatar/BCampVo.js"></script>
+	<script src="js/game/avatar/BCampManager.js"></script>
+	<script src="js/game/avatar/AvatarManager.js"></script>
+	<script src="js/game/avatar/Avatar.js"></script>
+	<script src="js/game/attr/GetInfoAttr.js"></script>
+	<script src="js/game/activity/OActivityLogic.js"></script>
+	<script src="js/game/activity/mEverydayManager.js"></script>
+	<script src="js/game/activity/EveryDayTurntable.js"></script>
+	<script src="js/game/activity/DiscountManager.js"></script>
+	<script src="js/game/activity/DEverydayManager.js"></script>
+	<script src="js/game/activity/ChangeGoodsManager.js"></script>
+	<script src="js/game/achievenment/DayAchievenVo.js"></script>
+	<script src="js/game/achievenment/achievenVo.js"></script>
+	<script src="js/game/achievenment/AchievenManger.js"></script>
+	<script src="js/engine/network/RemoteCall.js"></script>
+	<script src="js/engine/network/ProtocolMap.js"></script>
+	<script src="js/engine/network/Network.js"></script>
+	<script src="js/engine/network/CodeService.js"></script>
+	<script src="js/engine/network/BitService.js"></script>
+	<script src="js/engine/http/HttpService.js"></script>
+	<script src="js/engine/define/Util.js"></script>
+	<script src="js/engine/define/GameDefine.js"></script>
+	<script src="js/engine/define/EventDefine.js"></script>
+	<script src="js/engine/define/EffectDefine.js"></script>
+	<script src="js/engine/define/BaseDefine.js"></script>
+	<script src="js/engine/config/ConfigTab.js"></script>
+	<script src="js/engine/config/ConfigManager.js"></script>
+	<script src="js/engine/common/TweenList.js"></script>
+	<script src="js/engine/common/ObjectPool.js"></script>
+	<script src="js/engine/navigator/Navigator.js"></script>
+	<script src="js/engine/network/Jxs2cProtocol.js"></script>
+	<script src="js/game/avatar/Entity.js"></script>
+	<script src="js/game/avatar/BCamp.js"></script>
+	<script src="js/game/avatar/BPet.js"></script>
+	<script src="js/game/avatar/EffectModel.js"></script>
+	<script src="js/ui/layaUI.max.all.js"></script>
+	<script src="js/game/avatar/HeroBloodView.js"></script>
+	<script src="js/game/avatar/HeroCard.js"></script>
+	<script src="js/game/common/FloatView.js"></script>
+	<script src="js/game/common/ReconnectView.js"></script>
+	<script src="js/game/common/RewardView.js"></script>
+	<script src="js/game/common/SkillNameView.js"></script>
+	<script src="js/game/customs/monster/Monster.js"></script>
+	<script src="js/game/Pvp/Character/PCamp.js"></script>
+	<script src="js/game/Pvp/Character/PHeroCrad.js"></script>
+	<script src="js/game/Pvp/Character/PPet.js"></script>
+	<script src="js/game/Pvp/Character/TextNameView.js"></script>
+	<script src="js/view/achievement/AchievementView.js"></script>
+	<script src="js/view/action/boss/WroldBossBuffView.js"></script>
+	<script src="js/view/action/boss/WroldBossEndView.js"></script>
+	<script src="js/view/action/boss/WroldBossRewardView.js"></script>
+	<script src="js/view/action/boss/WroldBossView.js"></script>
+	<script src="js/view/action/kicking/KickingChooseView.js"></script>
+	<script src="js/view/action/kicking/KickingPetView.js"></script>
+	<script src="js/view/action/kicking/KickingPromptView.js"></script>
+	<script src="js/view/action/kicking/KickingResultView.js"></script>
+	<script src="js/view/action/kicking/KickingWarView.js"></script>
+	<script src="js/view/action/Ladder/BuyTimesView.js"></script>
+	<script src="js/view/action/Ladder/LadderLvRewardLineView.js"></script>
+	<script src="js/view/action/Ladder/LadderLvUpView.js"></script>
+	<script src="js/view/action/Ladder/LadderResultView.js"></script>
+	<script src="js/view/action/Ladder/LadderReward.js"></script>
+	<script src="js/view/action/Ladder/LadderView.js"></script>
+	<script src="js/view/action/Ladder/QuitLadderView.js"></script>
+	<script src="js/view/action/Ladder/RewardItemLine.js"></script>
+	<script src="js/view/action/Ladder/StreakWinView.js"></script>
+	<script src="js/view/action/match/ChampionPraiseView.js"></script>
+	<script src="js/view/action/match/JoinMatchTipView.js"></script>
+	<script src="js/view/action/match/MatchBossEndView.js"></script>
+	<script src="js/view/action/match/MatchElectionView.js"></script>
+	<script src="js/view/action/match/MatchPKEndView.js"></script>
+	<script src="js/view/action/match/MatchPraiseView.js"></script>
+	<script src="js/view/action/match/MatchRankView.js"></script>
+	<script src="js/view/action/match/MatchWarView.js"></script>
+	<script src="js/view/action/memory/BuyMemoryPowerView.js"></script>
+	<script src="js/view/action/memory/BuyMemoryTimesView.js"></script>
+	<script src="js/view/action/memory/MemoryChallengeView.js"></script>
+	<script src="js/view/action/memory/MemoryLineView.js"></script>
+	<script src="js/view/action/memory/MemoryModelView.js"></script>
+	<script src="js/view/action/memory/MemoryPetView.js"></script>
+	<script src="js/view/action/memory/MemoryResultView.js"></script>
+	<script src="js/view/action/memory/MemoryTargetView.js"></script>
+	<script src="js/view/action/memory/MemoryView.js"></script>
+	<script src="js/view/action/memory/MemoryWarView.js"></script>
+	<script src="js/view/action/topic/AcitonSettView.js"></script>
+	<script src="js/view/action/topic/Countdwon.js"></script>
+	<script src="js/view/action/topic/TopicView.js"></script>
+	<script src="js/view/camp/CampDonateView.js"></script>
+	<script src="js/view/camp/CampInfoView.js"></script>
+	<script src="js/view/camp/CampMainInfo.js"></script>
+	<script src="js/view/camp/CampMemberView.js"></script>
+	<script src="js/view/camp/CampPlayInfo.js"></script>
+	<script src="js/view/camp/CampRankView.js"></script>
+	<script src="js/view/camp/CampView.js"></script>
+	<script src="js/view/camp/JoinCampTip.js"></script>
+	<script src="js/view/camp/ReplaceCampView.js"></script>
+	<script src="js/view/camp/ReplaceTipView.js"></script>
+	<script src="js/view/Chat/ChatFaceResView.js"></script>
+	<script src="js/view/Chat/ChatLineView.js"></script>
+	<script src="js/view/Chat/ChatView.js"></script>
+	<script src="js/view/Chat/InteractView.js"></script>
+	<script src="js/view/Chat/LinkView.js"></script>
+	<script src="js/view/consumer/ActiveBgView.js"></script>
+	<script src="js/view/consumer/ChangeGoodsView.js"></script>
+	<script src="js/view/consumer/DiamondView.js"></script>
+	<script src="js/view/consumer/EverydayMoneyView.js"></script>
+	<script src="js/view/consumer/EveryDayTurnTableView.js"></script>
+	<script src="js/view/consumer/HeroStarPeckView.js"></script>
+	<script src="js/view/consumer/MoerGameView.js"></script>
+	<script src="js/view/consumer/MoneybackView.js"></script>
+	<script src="js/view/consumer/RecordListView.js"></script>
+	<script src="js/view/consumer/TipsRewardView.js"></script>
+	<script src="js/view/create/CreateView.js"></script>
+	<script src="js/view/Equep/EquipTips.js"></script>
+	<script src="js/view/Equep/MakeEquipView.js"></script>
+	<script src="js/view/fund/FundView.js"></script>
+	<script src="js/view/GameOver/ProfitView.js"></script>
+	<script src="js/view/guidance/GuidanceView.js"></script>
+	<script src="js/view/guidance/StoryView.js"></script>
+	<script src="js/view/heroList/HeroHandBook/MostHandBookView.js"></script>
+	<script src="js/view/heroList/HeroHandBook/SingleHandBookView.js"></script>
+	<script src="js/view/heroList/HeroHandBookView.js"></script>
+	<script src="js/view/heroList/HeroLvUp.js"></script>
+	<script src="js/view/heroList/HeroStar.js"></script>
+	<script src="js/view/heroList/HeroWar.js"></script>
+	<script src="js/view/heroList/Hero_AlInfo.js"></script>
+	<script src="js/view/loading/ChangeSceneView.js"></script>
+	<script src="js/view/loading/LoadingView.js"></script>
+	<script src="js/view/login/GetScopeView.js"></script>
+	<script src="js/view/login/InitialHeroView.js"></script>
+	<script src="js/view/login/LoginView.js"></script>
+	<script src="js/view/Mail/MailLineView.js"></script>
+	<script src="js/view/Mail/MailTipView.js"></script>
+	<script src="js/view/Mail/MailView.js"></script>
+	<script src="js/view/main/ItemToolView.js"></script>
+	<script src="js/view/main/ViewPanel.js"></script>
+	<script src="js/view/main/list/ListActionView.js"></script>
+	<script src="js/view/main/list/ListEquipView.js"></script>
+	<script src="js/view/main/list/ListHeroView.js"></script>
+	<script src="js/view/main/list/ListPetView.js"></script>
+	<script src="js/view/main/list/ListRoleView.js"></script>
+	<script src="js/view/main/list/ListShopView.js"></script>
+	<script src="js/view/main/list/MainListView.js"></script>
+	<script src="js/view/main/MainView.js"></script>
+	<script src="js/view/main/NoticeView.js"></script>
+	<script src="js/view/main/skill/MainSkillView.js"></script>
+	<script src="js/view/main/subinterface/MainAngleView.js"></script>
+	<script src="js/view/main/subinterface/MainBossView.js"></script>
+	<script src="js/view/main/subinterface/MainBubbleView.js"></script>
+	<script src="js/view/main/subinterface/MainClickView.js"></script>
+	<script src="js/view/main/subinterface/MainControlView.js"></script>
+	<script src="js/view/main/subinterface/MainCounterpartView.js"></script>
+	<script src="js/view/main/subinterface/MainCustomsView.js"></script>
+	<script src="js/view/main/subinterface/MainDeputyView.js"></script>
+	<script src="js/view/main/subinterface/MainDpsView.js"></script>
+	<script src="js/view/rank/RankView.js"></script>
+	<script src="js/view/scene/Scene01.js"></script>
+	<script src="js/view/scene/Scene02.js"></script>
+	<script src="js/view/scene/Scene03.js"></script>
+	<script src="js/view/scene/Scene04.js"></script>
+	<script src="js/view/scene/Scene05.js"></script>
+	<script src="js/view/scene/Scene06.js"></script>
+	<script src="js/view/scene/Scene07.js"></script>
+	<script src="js/view/setting/SettingHeadView.js"></script>
+	<script src="js/view/setting/SettingNameView.js"></script>
+	<script src="js/view/setting/SettingView.js"></script>
+	<script src="js/view/share/InvitationCustomsView.js"></script>
+	<script src="js/view/share/ShareAchievenView.js"></script>
+	<script src="js/view/share/ShareBaseView.js"></script>
+	<script src="js/view/share/ShareCustomsView.js"></script>
+	<script src="js/view/share/ShareHeroView.js"></script>
+	<script src="js/view/signIn/AdFreeView.js"></script>
+	<script src="js/view/signIn/AdvertisementView.js"></script>
+	<script src="js/view/signIn/AngleView.js"></script>
+	<script src="js/view/signIn/SevenSigninView.js"></script>
+	<script src="js/view/signIn/SignInView.js"></script>
+	<script src="js/view/stronger/StrongerView.js"></script>
+	<script src="js/view/tips/AsideView.js"></script>
+	<script src="js/view/tips/GiftBag2YuanView.js"></script>
+	<script src="js/view/tips/MessageBoxView.js"></script>
+	<script src="js/view/tips/ShopInfoView.js"></script>
+	<script src="js/view/tips/ShowGoodsTipsView.js"></script>
+	<script src="js/view/tips/SkillInfoView.js"></script>
+	<script src="js/view/tips/TipsActionView.js"></script>
+	<script src="js/view/tips/TipsTreasureView.js"></script>
+	<script src="js/view/tips/TipsView.js"></script>
+	<script src="js/view/VipView.js"></script>
+	<!--jsfile--endTag-->
+
+	<!--启动类添加到这里-->
+	<!--jsfile--Main-->
+	<script src="js/Main.js"></script>
+	<!--jsfile--Main-->
+</body>
+
+</html>

@@ -1,0 +1,22 @@
+.container {
+    background-image: url(../../images/img-by.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #141200;
+}
+
+.page-button {
+    background-image: url(../../images/btn-shouquan.png);
+    background-size: 100%;
+    position: absolute;
+    width: 240px;
+    height: 60px;
+    top: 350px;
+    left: 50%;
+    margin-left:-120px;
+    font-family: "SimHei";
+    font-weight: bold;
+    font-size: 26px;
+    color: #fff!important; 
+    border:none!important;
+}

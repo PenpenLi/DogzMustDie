@@ -1,0 +1,47 @@
+
+effect_ui_jiantou.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_jiantou/01
+  rotate: false
+  xy: 153, 6
+  size: 75, 105
+  orig: 75, 110
+  offset: 0, 5
+  index: -1
+effect_ui_jiantou/02
+  rotate: false
+  xy: 1, 1
+  size: 75, 110
+  orig: 75, 110
+  offset: 0, 0
+  index: -1
+effect_ui_jiantou/03
+  rotate: false
+  xy: 229, 8
+  size: 75, 103
+  orig: 75, 110
+  offset: 0, 0
+  index: -1
+effect_ui_jiantou/04
+  rotate: false
+  xy: 381, 22
+  size: 75, 89
+  orig: 75, 110
+  offset: 0, 0
+  index: -1
+effect_ui_jiantou/05
+  rotate: false
+  xy: 305, 9
+  size: 75, 102
+  orig: 75, 110
+  offset: 0, 0
+  index: -1
+effect_ui_jiantou/06
+  rotate: false
+  xy: 77, 3
+  size: 75, 108
+  orig: 75, 110
+  offset: 0, 2
+  index: -1

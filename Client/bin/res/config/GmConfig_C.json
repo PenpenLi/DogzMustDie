@@ -1,0 +1,10 @@
+{
+"1":{"cmd":"additem","id":1},
+"2":{"cmd":"setmaindun","id":2},
+"3":{"cmd":"nb","id":3},
+"4":{"cmd":"addpet","id":4},
+"5":{"cmd":"whosyourdaddy","id":5},
+"6":{"cmd":"addequip","id":6},
+"7":{"cmd":"addgift","id":7},
+"8":{"cmd":"addinvite","id":8}
+}

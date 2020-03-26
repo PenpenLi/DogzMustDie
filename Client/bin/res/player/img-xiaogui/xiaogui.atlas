@@ -1,0 +1,26 @@
+
+xiaogui.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 58, 44
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+hong
+  rotate: false
+  xy: 58, 31
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+xiaogui
+  rotate: false
+  xy: 0, 0
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,185 @@
+[-1]16:07:22:LogServer Start!
+[00]16:07:22:district_logindex	0
+[00]16:07:22:public_logindex	nil
+[00]16:07:22:1	table: 04796BA0
+[00]16:07:22:2	table: 04796BF0
+[00]16:07:22:3	table: 04796C18
+[00]16:07:22:4	table: 04796C40
+[00]16:07:22:5	table: 04796C68
+[00]16:07:22:6	table: 04796C90
+[00]16:07:22:district_logindex	0
+[00]16:07:22:Publiclogdbindex	nil
+[00]16:07:22:KernelService Start!
+[01]16:07:24:DBServer start.
+[00]16:07:24:Log!!! start time.	2019	4	13	14	39	1555137579
+[00]16:07:24:LOG!!! calendar.	2019	9	16
+[00]16:07:24:Erro data overflow 1
+[00]16:07:24:Erro data overflow 1
+[00]16:07:24:Erro data overflow 1
+[00]16:07:24:Erro data overflow 1
+[00]16:07:24:Erro data overflow 1
+[00]16:07:24:Erro data overflow 3
+[00]16:07:24:Erro data overflow 3
+[00]16:07:24:Erro data overflow 3
+[00]16:07:24:Erro data overflow 3
+[00]16:07:24:Erro data overflow 3
+[00]16:07:24:self.nCurState == 	1
+[00]16:07:24:CClientListener start listen at	0.0.0.0:8888
+[00]16:07:24:connect to commercial_server succeed!!!
+[00]16:07:24:commercial_server disconnect!!!	No error
+[00]16:07:27:connect to commercial_server succeed!!!
+[00]16:07:27:commercial_server disconnect!!!	No error
+[00]16:07:30:connect to commercial_server succeed!!!
+[00]16:07:30:commercial_server disconnect!!!	No error
+[00]16:07:33:connect to commercial_server succeed!!!
+[00]16:07:33:commercial_server disconnect!!!	No error
+[00]16:07:36:connect to commercial_server succeed!!!
+[00]16:07:36:commercial_server disconnect!!!	No error
+[-1]16:07:40:LogServer Start!
+[00]16:07:40:district_logindex	0
+[00]16:07:40:public_logindex	nil
+[00]16:07:40:1	table: 04866BA0
+[00]16:07:40:2	table: 04866BF0
+[00]16:07:40:3	table: 04866C18
+[00]16:07:40:4	table: 04866C40
+[00]16:07:40:5	table: 04866C68
+[00]16:07:40:6	table: 04866C90
+[00]16:07:40:district_logindex	0
+[00]16:07:40:Publiclogdbindex	nil
+[00]16:07:40:KernelService Start!
+[01]16:07:40:DBServer start.
+[00]16:07:40:Log!!! start time.	2019	4	13	14	39	1555137579
+[00]16:07:40:LOG!!! calendar.	2019	9	16
+[00]16:07:41:Erro data overflow 1
+[00]16:07:41:Erro data overflow 1
+[00]16:07:41:Erro data overflow 1
+[00]16:07:41:Erro data overflow 1
+[00]16:07:41:Erro data overflow 1
+[00]16:07:41:Erro data overflow 3
+[00]16:07:41:Erro data overflow 3
+[00]16:07:41:Erro data overflow 3
+[00]16:07:41:Erro data overflow 3
+[00]16:07:41:Erro data overflow 3
+[00]16:07:41:self.nCurState == 	1
+[00]16:07:41:CClientListener start listen at	0.0.0.0:8888
+[00]16:07:41:connect to commercial_server succeed!!!
+[00]16:07:41:commercial_server disconnect!!!	No error
+[-1]16:08:08:LogServer Start!
+[00]16:08:08:district_logindex	0
+[00]16:08:08:public_logindex	nil
+[00]16:08:08:1	table: 04776BA0
+[00]16:08:08:2	table: 04776BF0
+[00]16:08:08:3	table: 04776C18
+[00]16:08:08:4	table: 04776C40
+[00]16:08:08:5	table: 04776C68
+[00]16:08:08:6	table: 04776C90
+[00]16:08:08:district_logindex	0
+[00]16:08:08:Publiclogdbindex	nil
+[00]16:08:08:KernelService Start!
+[01]16:08:08:DBServer start.
+[00]16:08:08:Log!!! start time.	2019	9	16	16	8	1568621288
+[00]16:08:08:LOG!!! calendar.	2019	9	16
+[00]16:08:08:Erro data overflow 1
+[00]16:08:08:Erro data overflow 1
+[00]16:08:08:Erro data overflow 1
+[00]16:08:08:Erro data overflow 1
+[00]16:08:08:Erro data overflow 1
+[00]16:08:08:Erro data overflow 3
+[00]16:08:08:Erro data overflow 3
+[00]16:08:08:Erro data overflow 3
+[00]16:08:08:Erro data overflow 3
+[00]16:08:08:Erro data overflow 3
+[00]16:08:08:self.nCurState == 	1
+[00]16:08:08:CClientListener start listen at	0.0.0.0:8888
+[00]16:08:08:connect to commercial_server succeed!!!
+[00]16:08:08:LOG!!! on push activities
+[00]16:08:08:Log. parse_activity_data	9|1	9	1568563200	1654790400	1568563200	1654790400
+[00]16:08:08:Log. parse_activity_data	4|1	1	1568563200	1654790400	1568563200	1654790400
+[00]16:08:08:Log. parse_activity_data	5|1	2	1568563200	1654790400	1568563200	1654790400
+[00]16:08:08:Log. parse_activity_data	6|1	6	1568563200	1569513600	1568563200	1569513600
+[00]16:08:08:Log. parse_activity_data	7|1	7	1568563200	1654790400	1568563200	1654790400
+[00]16:08:08:Log. parse_activity_data	8|1	8	1568563200	1654790400	1568563200	1654790400
+[00]16:08:12:*******onAccept	userdata: 06B64878	127.0.0.1	2130706433
+[00]16:08:12:enter session num:	1	127.0.0.1	userdata: 06B64878
+[00]16:08:12:Log. player login req.	12	127.0.0.1
+[00]16:08:12:Log. player login res1.	12	127.0.0.1
+[00]16:08:12:Log. player login res2.	12	127.0.0.1
+[00]16:08:12:Log. player login res3.	12	127.0.0.1
+[00]16:08:15:leave session num:	0	120001	127.0.0.1	userdata: 06B64878	Connection reset by peer [WSAECONNRESET ]
+[-1]16:13:05:LogServer Start!
+[00]16:13:05:district_logindex	0
+[00]16:13:05:public_logindex	nil
+[00]16:13:05:1	table: 04796BA0
+[00]16:13:05:2	table: 04796BF0
+[00]16:13:05:3	table: 04796C18
+[00]16:13:05:4	table: 04796C40
+[00]16:13:05:5	table: 04796C68
+[00]16:13:05:6	table: 04796C90
+[00]16:13:05:district_logindex	0
+[00]16:13:05:Publiclogdbindex	nil
+[00]16:13:05:KernelService Start!
+[01]16:13:05:DBServer start.
+[00]16:13:05:Log!!! start time.	2019	9	16	16	8	1568621288
+[00]16:13:05:LOG!!! calendar.	2019	9	16
+[00]16:13:06:Erro data overflow 1
+[00]16:13:06:Erro data overflow 1
+[00]16:13:06:Erro data overflow 1
+[00]16:13:06:Erro data overflow 1
+[00]16:13:06:Erro data overflow 1
+[00]16:13:06:Erro data overflow 3
+[00]16:13:06:Erro data overflow 3
+[00]16:13:06:Erro data overflow 3
+[00]16:13:06:Erro data overflow 3
+[00]16:13:06:Erro data overflow 3
+[00]16:13:06:self.nCurState == 	1
+[00]16:13:06:CClientListener start listen at	0.0.0.0:8888
+[00]16:13:06:connect to commercial_server succeed!!!
+[00]16:13:06:LOG!!! on push activities
+[00]16:13:06:Log. parse_activity_data	9|1	9	1568563200	1654790400	1568563200	1654790400
+[00]16:13:06:Log. parse_activity_data	4|1	1	1568563200	1654790400	1568563200	1654790400
+[00]16:13:06:Log. parse_activity_data	5|1	2	1568563200	1654790400	1568563200	1654790400
+[00]16:13:06:Log. parse_activity_data	6|1	6	1568563200	1569513600	1568563200	1569513600
+[00]16:13:06:Log. parse_activity_data	7|1	7	1568563200	1654790400	1568563200	1654790400
+[00]16:13:06:Log. parse_activity_data	8|1	8	1568563200	1654790400	1568563200	1654790400
+[00]16:13:23:*******onAccept	userdata: 06C95148	127.0.0.1	2130706433
+[00]16:13:23:enter session num:	1	127.0.0.1	userdata: 06C95148
+[00]16:13:23:Log. player login req.	123	127.0.0.1
+[00]16:13:23:Log. player login res1.	123	127.0.0.1
+[00]16:13:23:Log. player login res2.	123	127.0.0.1
+[00]16:13:23:Log. player login res3.	123	127.0.0.1
+[00]16:13:23:KS Player Create	31128199
+[00]16:13:23:KS Player Create	31128199
+[00]16:13:23:enter player num:	1	31128199	127.0.0.1
+[00]16:13:23:ERROR!!! CServiceServer Disappeared!!!
+[00]16:13:23:OnInvite 2 =======	true	nil	31128199
+[00]16:13:23:CPlayerManager:OnInvite Done	true	nil	31128199
+[00]16:13:23:not sRoleID
+[00]16:13:35:-----performance times-----
+[00]16:13:35:-----performance times-----
+[00]16:13:35:-----performance averagemcs-----
+[00]16:13:35:-----performance averagemcs-----
+[00]16:13:35:[memory]:	16846.6015625
+[01]16:13:36:-----performance times-----
+[01]16:13:36:-----performance times-----
+[01]16:13:36:-----performance averagemcs-----
+[01]16:13:36:-----performance averagemcs-----
+[01]16:13:36:[memory]:	13081.151367188
+[00]16:13:41:CPlayer:LeaveGame
+[00]16:13:41:leave player num:	0	31128199	127.0.0.1
+[00]16:13:41:leave session num:	0	1230001	127.0.0.1	userdata: 06C95148	No error
+[00]16:24:00:*******onAccept	userdata: 06C2B618	127.0.0.1	2130706433
+[00]16:24:00:enter session num:	1	127.0.0.1	userdata: 06C2B618
+[00]16:24:00:Log. player login req.	123	127.0.0.1
+[00]16:24:00:Log. player login res1.	123	127.0.0.1
+[00]16:24:00:Log. player login res2.	123	127.0.0.1
+[00]16:24:00:Log. player login res3.	123	127.0.0.1
+[00]16:24:00:KS Player Create	31128199
+[00]16:24:00:KS Player Create	31128199
+[00]16:24:00:enter player num:	1	31128199	127.0.0.1
+[00]16:24:00:ERROR!!! CServiceServer Disappeared!!!
+[00]16:24:00:OnInvite 2 =======	true	nil	31128199
+[00]16:24:00:CPlayerManager:OnInvite Done	true	nil	31128199
+[00]16:24:00:not sRoleID
+[00]16:24:03:CPlayer:LeaveGame
+[00]16:24:03:leave player num:	0	31128199	127.0.0.1
+[00]16:24:03:leave session num:	0	1230001	127.0.0.1	userdata: 06C2B618	No error

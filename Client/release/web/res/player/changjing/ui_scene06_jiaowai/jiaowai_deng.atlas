@@ -1,0 +1,62 @@
+
+jiaowai_deng.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green
+  rotate: false
+  xy: 520, 603
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+pingtai
+  rotate: false
+  xy: 2, 2
+  size: 206, 218
+  orig: 206, 218
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 210, 187
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 665, 681
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+yun_1
+  rotate: false
+  xy: 2, 639
+  size: 661, 353
+  orig: 661, 353
+  offset: 0, 0
+  index: -1
+yun_2
+  rotate: false
+  xy: 2, 222
+  size: 518, 190
+  orig: 518, 190
+  offset: 0, 0
+  index: -1
+yun_3
+  rotate: false
+  xy: 2, 414
+  size: 516, 223
+  orig: 516, 223
+  offset: 0, 0
+  index: -1
+yun_4
+  rotate: false
+  xy: 665, 717
+  size: 334, 275
+  orig: 334, 275
+  offset: 0, 0
+  index: -1

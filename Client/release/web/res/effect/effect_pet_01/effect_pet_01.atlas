@@ -1,0 +1,61 @@
+
+effect_pet_01.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_pet_01/energy_22_00000
+  rotate: false
+  xy: 675, 1
+  size: 45, 157
+  orig: 281, 500
+  offset: 110, 318
+  index: -1
+effect_pet_01/energy_22_00001
+  rotate: false
+  xy: 592, 63
+  size: 82, 359
+  orig: 281, 500
+  offset: 91, 115
+  index: -1
+effect_pet_01/energy_22_00002
+  rotate: false
+  xy: 1, 39
+  size: 247, 383
+  orig: 281, 500
+  offset: 20, 64
+  index: -1
+effect_pet_01/energy_22_00003
+  rotate: false
+  xy: 463, 104
+  size: 128, 318
+  orig: 281, 500
+  offset: 77, 113
+  index: -1
+effect_pet_01/energy_22_00004
+  rotate: false
+  xy: 249, 100
+  size: 213, 322
+  orig: 281, 500
+  offset: 46, 98
+  index: -1
+effect_pet_01/energy_22_00005
+  rotate: false
+  xy: 675, 159
+  size: 123, 263
+  orig: 281, 500
+  offset: 75, 122
+  index: -1
+effect_pet_01/energy_22_00006
+  rotate: false
+  xy: 799, 215
+  size: 118, 207
+  orig: 281, 500
+  offset: 73, 135
+  index: -1
+effect_pet_01/energy_22_00007
+  rotate: false
+  xy: 918, 284
+  size: 97, 138
+  orig: 281, 500
+  offset: 92, 150
+  index: -1

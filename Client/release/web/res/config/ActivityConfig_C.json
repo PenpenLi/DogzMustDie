@@ -1,0 +1,9 @@
+{
+"11":{"activiType":1,"IsOneLine":1,"OpenDay":{},"time":"12:30-14:30","Details":6002,"LedTime":{"1":"12:25","2":"12:27","3":"12:29"},"awardShow":{"1":{"1":1,"2":2,"3":50},"2":{"1":1,"2":2523,"3":1},"3":{"1":1,"2":2401,"3":1}},"activiName":5011},
+"12":{"activiType":1,"IsOneLine":1,"OpenDay":{},"time":"18:30-20:30","Details":6002,"LedTime":{"1":"18:25","2":"18:27","3":"18:29"},"awardShow":{"1":{"1":1,"2":2,"3":50},"2":{"1":1,"2":2523,"3":1},"3":{"1":1,"2":2401,"3":1}},"activiName":5011},
+"21":{"activiType":2,"IsOneLine":1,"OpenDay":{},"time":"00:00-24:00","Details":6003,"LedTime":{},"awardShow":{"1":{"1":1,"2":1,"3":1},"2":{"1":1,"2":2,"3":1}},"activiName":5013},
+"31":{"activiType":3,"IsOneLine":1,"OpenDay":{},"time":"00:00-24:00","Details":6032,"LedTime":{},"awardShow":{"1":{"1":1,"2":2301,"3":1},"2":{"1":1,"2":2,"3":1}},"activiName":5014},
+"41":{"activiType":4,"IsOneLine":1,"OpenDay":{},"time":"00:00-24:00","Details":6035,"LedTime":{},"awardShow":{"1":{"1":1,"2":2201,"3":1},"2":{"1":1,"2":2,"3":1}},"activiName":5020},
+"51":{"activiType":5,"IsOneLine":1,"OpenDay":{},"time":"00:00-24:00","Details":6006,"LedTime":{},"awardShow":{"1":{"1":1,"2":1,"3":1},"2":{"1":1,"2":2,"3":1}},"activiName":5023},
+"61":{"activiType":6,"IsOneLine":1,"OpenDay":{},"time":"","Details":6033,"LedTime":{},"awardShow":{"1":{"1":1,"2":2,"3":1}},"activiName":5015}
+}

@@ -1,0 +1,89 @@
+
+effect_ui_guanqia.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_guanqia/image 276
+  rotate: false
+  xy: 49, 53
+  size: 48, 46
+  orig: 50, 50
+  offset: 0, 1
+  index: -1
+effect_ui_guanqia/image 278
+  rotate: false
+  xy: 49, 5
+  size: 47, 47
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+effect_ui_guanqia/image 280
+  rotate: false
+  xy: 97, 5
+  size: 47, 47
+  orig: 50, 50
+  offset: 2, 0
+  index: -1
+effect_ui_guanqia/image 282
+  rotate: false
+  xy: 145, 5
+  size: 47, 47
+  orig: 50, 50
+  offset: 2, 0
+  index: -1
+effect_ui_guanqia/image 284
+  rotate: false
+  xy: 196, 52
+  size: 47, 47
+  orig: 50, 50
+  offset: 2, 1
+  index: -1
+effect_ui_guanqia/image 286
+  rotate: false
+  xy: 98, 53
+  size: 48, 46
+  orig: 50, 50
+  offset: 2, 2
+  index: -1
+effect_ui_guanqia/image 288
+  rotate: false
+  xy: 244, 53
+  size: 47, 46
+  orig: 50, 50
+  offset: 2, 2
+  index: -1
+effect_ui_guanqia/image 290
+  rotate: false
+  xy: 292, 53
+  size: 46, 46
+  orig: 50, 50
+  offset: 2, 2
+  index: -1
+effect_ui_guanqia/image 292
+  rotate: false
+  xy: 339, 52
+  size: 46, 47
+  orig: 50, 50
+  offset: 2, 2
+  index: -1
+effect_ui_guanqia/image 294
+  rotate: false
+  xy: 1, 50
+  size: 47, 49
+  orig: 50, 50
+  offset: 1, 1
+  index: -1
+effect_ui_guanqia/image 296
+  rotate: false
+  xy: 1, 1
+  size: 47, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1
+effect_ui_guanqia/image 298
+  rotate: false
+  xy: 147, 53
+  size: 48, 46
+  orig: 50, 50
+  offset: 0, 1
+  index: -1

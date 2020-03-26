@@ -1,0 +1,124 @@
+
+effect_attack_08.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_attack_08/1
+  rotate: false
+  xy: 1382, 562
+  size: 162, 118
+  orig: 326, 324
+  offset: 98, 2
+  index: -1
+effect_attack_08/10
+  rotate: false
+  xy: 328, 326
+  size: 295, 324
+  orig: 326, 324
+  offset: 31, 0
+  index: -1
+effect_attack_08/11
+  rotate: false
+  xy: 1, 1
+  size: 322, 324
+  orig: 326, 324
+  offset: 4, 0
+  index: -1
+effect_attack_08/12
+  rotate: false
+  xy: 324, 1
+  size: 254, 324
+  orig: 326, 324
+  offset: 72, 0
+  index: -1
+effect_attack_08/13
+  rotate: false
+  xy: 1190, 696
+  size: 198, 279
+  orig: 326, 324
+  offset: 117, 29
+  index: -1
+effect_attack_08/14
+  rotate: false
+  xy: 579, 147
+  size: 162, 178
+  orig: 326, 324
+  offset: 107, 19
+  index: -1
+effect_attack_08/15
+  rotate: false
+  xy: 1190, 574
+  size: 191, 121
+  orig: 326, 324
+  offset: 92, 15
+  index: -1
+effect_attack_08/16
+  rotate: false
+  xy: 579, 29
+  size: 158, 117
+  orig: 326, 324
+  offset: 122, 1
+  index: -1
+effect_attack_08/17
+  rotate: false
+  xy: 1916, 915
+  size: 100, 60
+  orig: 326, 324
+  offset: 168, 24
+  index: -1
+effect_attack_08/2
+  rotate: false
+  xy: 1669, 836
+  size: 246, 139
+  orig: 326, 324
+  offset: 61, 0
+  index: -1
+effect_attack_08/3
+  rotate: false
+  xy: 1389, 681
+  size: 247, 138
+  orig: 326, 324
+  offset: 61, 1
+  index: -1
+effect_attack_08/4
+  rotate: false
+  xy: 1389, 820
+  size: 279, 155
+  orig: 326, 324
+  offset: 41, 0
+  index: -1
+effect_attack_08/5
+  rotate: false
+  xy: 1, 651
+  size: 326, 324
+  orig: 326, 324
+  offset: 0, 0
+  index: -1
+effect_attack_08/6
+  rotate: false
+  xy: 328, 651
+  size: 323, 324
+  orig: 326, 324
+  offset: 0, 0
+  index: -1
+effect_attack_08/7
+  rotate: false
+  xy: 1, 326
+  size: 326, 324
+  orig: 326, 324
+  offset: 0, 0
+  index: -1
+effect_attack_08/8
+  rotate: false
+  xy: 945, 653
+  size: 244, 322
+  orig: 326, 324
+  offset: 48, 2
+  index: -1
+effect_attack_08/9
+  rotate: false
+  xy: 652, 653
+  size: 292, 322
+  orig: 326, 324
+  offset: 30, 0
+  index: -1

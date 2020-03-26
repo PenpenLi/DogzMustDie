@@ -1,0 +1,33 @@
+
+effect_fly_01.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lytt_pugong/10
+  rotate: false
+  xy: 222, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+lytt_pugong/7
+  rotate: false
+  xy: 1, 222
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+lytt_pugong/8
+  rotate: false
+  xy: 1, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+lytt_pugong/9
+  rotate: false
+  xy: 222, 222
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1

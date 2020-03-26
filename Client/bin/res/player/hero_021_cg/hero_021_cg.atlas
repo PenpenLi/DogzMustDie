@@ -1,0 +1,146 @@
+
+hero_021_cg.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arms
+  rotate: false
+  xy: 0, 47
+  size: 52, 134
+  orig: 52, 134
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 52, 5
+  size: 68, 73
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 120, 38
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+fin_1
+  rotate: false
+  xy: 223, 139
+  size: 24, 58
+  orig: 24, 59
+  offset: 0, 0
+  index: -1
+fin_2
+  rotate: false
+  xy: 224, 91
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+fin_4
+  rotate: false
+  xy: 0, 23
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+fin_5
+  rotate: false
+  xy: 165, 58
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+finger_1
+  rotate: false
+  xy: 237, 103
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+finger_2
+  rotate: false
+  xy: 247, 177
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+glasses_1
+  rotate: false
+  xy: 223, 121
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+glasses_2
+  rotate: false
+  xy: 128, 184
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 128, 198
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+left_arms
+  rotate: false
+  xy: 0, 0
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 122, 61
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+left_thigh
+  rotate: false
+  xy: 165, 117
+  size: 58, 81
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+left_upper_arms
+  rotate: false
+  xy: 224, 197
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 122, 90
+  size: 43, 91
+  orig: 43, 91
+  offset: 0, 0
+  index: -1
+right_thigh
+  rotate: false
+  xy: 52, 78
+  size: 70, 103
+  orig: 70, 103
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: false
+  xy: 120, 17
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 0, 181
+  size: 128, 70
+  orig: 128, 70
+  offset: 0, 0
+  index: -1

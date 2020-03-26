@@ -1,0 +1,195 @@
+
+login_gly.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozi
+  rotate: false
+  xy: 189, 88
+  size: 292, 215
+  orig: 292, 215
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 483, 85
+  size: 246, 222
+  orig: 246, 222
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: false
+  xy: 698, 356
+  size: 177, 141
+  orig: 177, 141
+  offset: 0, 0
+  index: -1
+l_foeram
+  rotate: true
+  xy: 840, 79
+  size: 137, 95
+  orig: 137, 95
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 937, 264
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1
+l_thigh
+  rotate: false
+  xy: 454, 333
+  size: 242, 176
+  orig: 242, 176
+  offset: 0, 0
+  index: -1
+l_upperarm
+  rotate: false
+  xy: 707, 86
+  size: 131, 130
+  orig: 131, 130
+  offset: 0, 0
+  index: -1
+maofa01
+  rotate: true
+  xy: 421, 6
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
+maofa02
+  rotate: true
+  xy: 948, 663
+  size: 94, 56
+  orig: 94, 56
+  offset: 0, 0
+  index: -1
+maofa03
+  rotate: true
+  xy: 183, 22
+  size: 64, 133
+  orig: 64, 133
+  offset: 0, 0
+  index: -1
+maofa04
+  rotate: false
+  xy: 863, 257
+  size: 52, 97
+  orig: 52, 97
+  offset: 0, 0
+  index: -1
+maofa05
+  rotate: false
+  xy: 948, 523
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+maofa06
+  rotate: true
+  xy: 318, 34
+  size: 52, 101
+  orig: 52, 101
+  offset: 0, 0
+  index: -1
+maofa07
+  rotate: false
+  xy: 917, 334
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+maofa08
+  rotate: true
+  xy: 108, 15
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+maofa09
+  rotate: false
+  xy: 108, 42
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+maofa10
+  rotate: false
+  xy: 707, 218
+  size: 154, 136
+  orig: 154, 136
+  offset: 0, 0
+  index: -1
+maofa11
+  rotate: true
+  xy: 2, 2
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+maofa12
+  rotate: true
+  xy: 948, 578
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+maofa13
+  rotate: false
+  xy: 877, 358
+  size: 119, 139
+  orig: 119, 139
+  offset: 0, 0
+  index: -1
+r_foeram
+  rotate: false
+  xy: 471, 511
+  size: 262, 214
+  orig: 262, 214
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 2, 129
+  size: 472, 185
+  orig: 472, 185
+  offset: 0, 0
+  index: -1
+r_thigh
+  rotate: true
+  xy: 735, 499
+  size: 226, 211
+  orig: 226, 211
+  offset: 0, 0
+  index: -1
+r_upperarm
+  rotate: true
+  xy: 815, 759
+  size: 263, 175
+  orig: 263, 175
+  offset: 0, 0
+  index: -1
+spine01
+  rotate: true
+  xy: 189, 305
+  size: 296, 263
+  orig: 296, 263
+  offset: 0, 0
+  index: -1
+spine02
+  rotate: false
+  xy: 2, 603
+  size: 467, 419
+  orig: 467, 419
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 471, 727
+  size: 342, 295
+  orig: 342, 295
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,82 @@
+[-1]17:57:38:LogServer Start!
+[00]17:57:38:district_logindex	0
+[00]17:57:38:public_logindex	nil
+[00]17:57:38:1	table: 04786B78
+[00]17:57:38:2	table: 04786BC8
+[00]17:57:38:3	table: 04786BF0
+[00]17:57:38:4	table: 04786C18
+[00]17:57:38:5	table: 04786C40
+[00]17:57:38:6	table: 04786C68
+[00]17:57:38:district_logindex	0
+[00]17:57:38:Publiclogdbindex	nil
+[00]17:57:38:KernelService Start!
+[01]17:57:39:DBServer start.
+[00]17:57:39:Log!!! start time.	2019	4	13	14	39	1555137579
+[00]17:57:39:LOG!!! calendar.	2019	8	31
+[00]17:57:39:Erro data overflow 1
+[00]17:57:39:Erro data overflow 1
+[00]17:57:39:Erro data overflow 1
+[00]17:57:39:Erro data overflow 1
+[00]17:57:39:Erro data overflow 1
+[00]17:57:39:Erro data overflow 3
+[00]17:57:39:Erro data overflow 3
+[00]17:57:39:Erro data overflow 3
+[00]17:57:39:Erro data overflow 3
+[00]17:57:39:Erro data overflow 3
+[00]17:57:39:CClientListener start listen at	0.0.0.0:8888
+[00]17:57:39:connect to commercial_server succeed!!!
+[00]17:57:39:LOG!!! on push activities
+[00]17:57:39:Log. parse_activity_data	9|1	9	1555084800	1641312000	1555084800	1641312000
+[00]17:57:39:Log. parse_activity_data	4|1	1	1555084800	1641312000	1555084800	1641312000
+[00]17:57:39:Log. parse_activity_data	5|1	2	1555084800	1641312000	1555084800	1641312000
+[00]17:57:39:ERROR!!! activity time err.	6|1	1555084800	1556035200	1555084800	1556035200
+[00]17:57:39:Log. parse_activity_data	7|1	7	1555084800	1641312000	1555084800	1641312000
+[00]17:57:39:Log. parse_activity_data	8|1	8	1555084800	1641312000	1555084800	1641312000
+[00]17:58:09:-----performance times-----
+[00]17:58:09:-----performance times-----
+[00]17:58:09:-----performance averagemcs-----
+[00]17:58:09:-----performance averagemcs-----
+[00]17:58:09:[memory]:	16646.262695313
+[01]17:58:09:-----performance times-----
+[01]17:58:09:-----performance times-----
+[01]17:58:09:-----performance averagemcs-----
+[01]17:58:09:-----performance averagemcs-----
+[01]17:58:09:[memory]:	13036.948242188
+[00]18:00:11:*******onAccept	userdata: 06C66050	127.0.0.1	2130706433
+[00]18:00:11:enter session num:	1	127.0.0.1	userdata: 06C66050
+[00]18:00:11:Log. player login req.	111	127.0.0.1
+[00]18:00:11:Log. player login res1.	111	127.0.0.1
+[00]18:00:11:Log. player login res2.	111	127.0.0.1
+[00]18:00:11:Log. player login res3.	111	127.0.0.1
+[00]18:00:11:KS Player Create	11111111
+[00]18:00:11:KS Player Create	11111111
+[00]18:00:11:enter player num:	1	11111111	127.0.0.1
+[00]18:00:11:self.m_nLoginNum    = self.m_nLoginNum + 1	52
+[00]18:00:11:CPVPManager:GetLadderScore is not tData!
+[00]18:00:11:CPVPManager:GetLadderScore is not tData!
+[00]18:00:11:ERROR!!! CServiceServer Disappeared!!!
+[00]18:00:11:OnInvite 2 =======	true	nil	11111111
+[00]18:00:11:CPlayerManager:OnInvite Done	true	nil	11111111
+[00]18:00:11:not sRoleID
+[00]18:00:30:CPlayer:LeaveGame
+[00]18:00:30:leave player num:	0	11111111	127.0.0.1
+[00]18:00:30:leave session num:	0	1110001	127.0.0.1	userdata: 06C66050	Connection reset by peer [WSAECONNRESET ]
+[00]18:01:30:*******onAccept	userdata: 06B79FA0	127.0.0.1	2130706433
+[00]18:01:30:enter session num:	1	127.0.0.1	userdata: 06B79FA0
+[00]18:01:30:Log. player login req.	11	127.0.0.1
+[00]18:01:30:Log. player login res1.	11	127.0.0.1
+[00]18:01:30:Log. player login res2.	11	127.0.0.1
+[00]18:01:30:Log. player login res3.	11	127.0.0.1
+[00]18:01:30:KS Player Create	61111111
+[00]18:01:30:KS Player Create	61111111
+[00]18:01:30:enter player num:	1	61111111	127.0.0.1
+[00]18:01:30:self.m_nLoginNum    = self.m_nLoginNum + 1	3
+[00]18:01:30:CPVPManager:GetLadderScore is not tData!
+[00]18:01:30:CPVPManager:GetLadderScore is not tData!
+[00]18:01:30:ERROR!!! CServiceServer Disappeared!!!
+[00]18:01:30:OnInvite 2 =======	true	nil	61111111
+[00]18:01:30:CPlayerManager:OnInvite Done	true	nil	61111111
+[00]18:01:30:not sRoleID
+[00]18:01:41:CPlayer:LeaveGame
+[00]18:01:41:leave player num:	0	61111111	127.0.0.1
+[00]18:01:41:leave session num:	0	110001	127.0.0.1	userdata: 06B79FA0	No error

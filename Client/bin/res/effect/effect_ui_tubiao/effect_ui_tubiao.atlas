@@ -1,0 +1,33 @@
+
+effect_ui_tubiao.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_tubiao/01
+  rotate: false
+  xy: 138, 67
+  size: 93, 64
+  orig: 136, 148
+  offset: 0, 84
+  index: -1
+effect_ui_tubiao/02
+  rotate: false
+  xy: 1, 100
+  size: 136, 99
+  orig: 136, 148
+  offset: 0, 36
+  index: -1
+effect_ui_tubiao/03
+  rotate: false
+  xy: 1, 1
+  size: 136, 98
+  orig: 136, 148
+  offset: 0, 15
+  index: -1
+effect_ui_tubiao/04
+  rotate: false
+  xy: 138, 132
+  size: 95, 67
+  orig: 136, 148
+  offset: 41, 0
+  index: -1

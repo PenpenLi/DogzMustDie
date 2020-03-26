@@ -1,0 +1,82 @@
+
+effect_state_baoshang.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_state_baoshang/10000
+  rotate: false
+  xy: 1, 112
+  size: 168, 125
+  orig: 600, 600
+  offset: 215, 199
+  index: -1
+effect_state_baoshang/10001
+  rotate: false
+  xy: 174, 377
+  size: 173, 131
+  orig: 600, 600
+  offset: 213, 197
+  index: -1
+effect_state_baoshang/10002
+  rotate: false
+  xy: 1, 238
+  size: 171, 131
+  orig: 600, 600
+  offset: 215, 201
+  index: -1
+effect_state_baoshang/10003
+  rotate: false
+  xy: 1, 370
+  size: 172, 138
+  orig: 600, 600
+  offset: 213, 198
+  index: -1
+effect_state_baoshang/10004
+  rotate: false
+  xy: 348, 385
+  size: 173, 123
+  orig: 600, 600
+  offset: 213, 198
+  index: -1
+effect_state_baoshang/10005
+  rotate: false
+  xy: 522, 384
+  size: 168, 124
+  orig: 600, 600
+  offset: 216, 200
+  index: -1
+effect_state_baoshang/10006
+  rotate: false
+  xy: 348, 276
+  size: 169, 108
+  orig: 600, 600
+  offset: 213, 199
+  index: -1
+effect_state_baoshang/10007
+  rotate: false
+  xy: 1, 1
+  size: 169, 110
+  orig: 600, 600
+  offset: 215, 199
+  index: -1
+effect_state_baoshang/10008
+  rotate: false
+  xy: 691, 398
+  size: 174, 110
+  orig: 600, 600
+  offset: 211, 198
+  index: -1
+effect_state_baoshang/10009
+  rotate: false
+  xy: 691, 283
+  size: 170, 114
+  orig: 600, 600
+  offset: 216, 198
+  index: -1
+effect_state_baoshang/10010
+  rotate: false
+  xy: 518, 273
+  size: 168, 110
+  orig: 600, 600
+  offset: 216, 200
+  index: -1

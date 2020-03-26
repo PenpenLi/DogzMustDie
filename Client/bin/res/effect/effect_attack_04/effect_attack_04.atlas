@@ -1,0 +1,89 @@
+
+effect_attack_04.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_attack_04/0
+  rotate: false
+  xy: 381, 11
+  size: 185, 133
+  orig: 205, 144
+  offset: 14, 7
+  index: -1
+effect_attack_04/1
+  rotate: false
+  xy: 1, 144
+  size: 193, 140
+  orig: 205, 144
+  offset: 12, 2
+  index: -1
+effect_attack_04/10
+  rotate: false
+  xy: 756, 285
+  size: 184, 140
+  orig: 205, 144
+  offset: 0, 2
+  index: -1
+effect_attack_04/11
+  rotate: false
+  xy: 381, 145
+  size: 185, 137
+  orig: 205, 144
+  offset: 6, 7
+  index: -1
+effect_attack_04/2
+  rotate: false
+  xy: 1, 1
+  size: 185, 142
+  orig: 205, 144
+  offset: 7, 2
+  index: -1
+effect_attack_04/3
+  rotate: false
+  xy: 187, 4
+  size: 183, 139
+  orig: 205, 144
+  offset: 2, 0
+  index: -1
+effect_attack_04/4
+  rotate: false
+  xy: 571, 284
+  size: 184, 141
+  orig: 205, 144
+  offset: 0, 1
+  index: -1
+effect_attack_04/5
+  rotate: false
+  xy: 199, 283
+  size: 185, 142
+  orig: 205, 144
+  offset: 6, 2
+  index: -1
+effect_attack_04/6
+  rotate: false
+  xy: 195, 144
+  size: 185, 138
+  orig: 205, 144
+  offset: 14, 2
+  index: -1
+effect_attack_04/7
+  rotate: false
+  xy: 1, 285
+  size: 197, 140
+  orig: 205, 144
+  offset: 8, 2
+  index: -1
+effect_attack_04/8
+  rotate: false
+  xy: 385, 283
+  size: 185, 142
+  orig: 205, 144
+  offset: 7, 2
+  index: -1
+effect_attack_04/9
+  rotate: false
+  xy: 571, 145
+  size: 183, 138
+  orig: 205, 144
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,167 @@
+
+chuan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanti
+  rotate: false
+  xy: 2, 163
+  size: 207, 89
+  orig: 207, 89
+  offset: 0, 0
+  index: -1
+fanbu01
+  rotate: true
+  xy: 110, 59
+  size: 83, 52
+  orig: 83, 52
+  offset: 0, 0
+  index: -1
+fanbu02
+  rotate: true
+  xy: 211, 178
+  size: 74, 33
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+fanbu03
+  rotate: false
+  xy: 151, 12
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+fanbu04
+  rotate: false
+  xy: 2, 19
+  size: 104, 57
+  orig: 104, 57
+  offset: 0, 0
+  index: -1
+fanbu05
+  rotate: true
+  xy: 164, 45
+  size: 97, 52
+  orig: 97, 52
+  offset: 0, 0
+  index: -1
+fanbu06
+  rotate: false
+  xy: 2, 78
+  size: 106, 64
+  orig: 106, 64
+  offset: 0, 0
+  index: -1
+ganzi01
+  rotate: true
+  xy: 2, 2
+  size: 15, 141
+  orig: 15, 141
+  offset: 0, 0
+  index: -1
+ganzi02
+  rotate: true
+  xy: 2, 144
+  size: 17, 170
+  orig: 17, 170
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 218, 95
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+head01
+  rotate: false
+  xy: 247, 117
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+mao
+  rotate: true
+  xy: 108, 26
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+paotai
+  rotate: false
+  xy: 211, 147
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+pd01
+  rotate: false
+  xy: 119, 19
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+pd02
+  rotate: false
+  xy: 151, 51
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+pd03
+  rotate: false
+  xy: 129, 19
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+pd04
+  rotate: false
+  xy: 246, 247
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+pd05
+  rotate: false
+  xy: 108, 19
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+piaodai01
+  rotate: false
+  xy: 174, 147
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+piaodai02
+  rotate: true
+  xy: 218, 69
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+piaodai03
+  rotate: false
+  xy: 218, 47
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+piaodai04
+  rotate: false
+  xy: 218, 123
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+piaodai05
+  rotate: true
+  xy: 229, 21
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1

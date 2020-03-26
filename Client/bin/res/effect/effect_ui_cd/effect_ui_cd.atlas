@@ -1,0 +1,75 @@
+
+effect_ui_cd.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_cd/0
+  rotate: false
+  xy: 332, 334
+  size: 106, 106
+  orig: 110, 110
+  offset: 2, 2
+  index: -1
+effect_ui_cd/1
+  rotate: false
+  xy: 110, 112
+  size: 106, 106
+  orig: 110, 110
+  offset: 2, 2
+  index: -1
+effect_ui_cd/2
+  rotate: false
+  xy: 1, 110
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+effect_ui_cd/3
+  rotate: false
+  xy: 112, 221
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+effect_ui_cd/4
+  rotate: false
+  xy: 1, 330
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+effect_ui_cd/5
+  rotate: false
+  xy: 1, 219
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+effect_ui_cd/6
+  rotate: false
+  xy: 112, 330
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+effect_ui_cd/7
+  rotate: false
+  xy: 223, 332
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+effect_ui_cd/8
+  rotate: false
+  xy: 1, 1
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+effect_ui_cd/9
+  rotate: false
+  xy: 110, 5
+  size: 106, 106
+  orig: 110, 110
+  offset: 2, 2
+  index: -1

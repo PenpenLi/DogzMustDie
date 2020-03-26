@@ -1,0 +1,75 @@
+
+effect_state_shanghai.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_state_shanghai/01
+  rotate: false
+  xy: 713, 231
+  size: 120, 240
+  orig: 256, 256
+  offset: 73, 6
+  index: -1
+effect_state_shanghai/02
+  rotate: false
+  xy: 591, 242
+  size: 121, 229
+  orig: 256, 256
+  offset: 73, 13
+  index: -1
+effect_state_shanghai/03
+  rotate: false
+  xy: 159, 1
+  size: 136, 228
+  orig: 256, 256
+  offset: 66, 0
+  index: -1
+effect_state_shanghai/04
+  rotate: false
+  xy: 159, 230
+  size: 136, 241
+  orig: 256, 256
+  offset: 66, 0
+  index: -1
+effect_state_shanghai/05
+  rotate: false
+  xy: 296, 251
+  size: 157, 220
+  orig: 256, 256
+  offset: 54, 19
+  index: -1
+effect_state_shanghai/06
+  rotate: false
+  xy: 1, 4
+  size: 157, 221
+  orig: 256, 256
+  offset: 54, 26
+  index: -1
+effect_state_shanghai/07
+  rotate: false
+  xy: 296, 26
+  size: 141, 224
+  orig: 256, 256
+  offset: 61, 0
+  index: -1
+effect_state_shanghai/08
+  rotate: false
+  xy: 1, 226
+  size: 157, 245
+  orig: 256, 256
+  offset: 54, 7
+  index: -1
+effect_state_shanghai/09
+  rotate: false
+  xy: 454, 246
+  size: 136, 225
+  orig: 256, 256
+  offset: 65, 11
+  index: -1
+effect_state_shanghai/10
+  rotate: false
+  xy: 834, 242
+  size: 118, 229
+  orig: 256, 256
+  offset: 72, 15
+  index: -1

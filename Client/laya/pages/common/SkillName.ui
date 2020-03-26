@@ -1,0 +1,37 @@
+{
+    "x":0,
+    "type":"View",
+    "selectedBox":1,
+    "selecteID":2,
+    "props":{"width":750,"sceneColor":"#000000","height":1200},
+    "nodeParent":-1,
+    "label":"View",
+    "isOpen":true,
+    "isDirectory":true,
+    "isAniNode":true,
+    "hasChild":true,
+    "compId":1,
+    "child":[
+        {
+            "x":15,
+            "type":"Image",
+            "props":{"y":25,"x":40,"width":136,"var":"SName","skin":"ui_skillname/lflj.png","scaleY":1,"scaleX":1,"height":48,"anchorY":0.5,"anchorX":0.5},
+            "nodeParent":1,
+            "label":"Image(SName)",
+            "isDirectory":false,
+            "isAniNode":true,
+            "hasChild":false,
+            "compId":2,
+            "child":[
+                ]
+        }],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}

@@ -1,0 +1,83 @@
+
+p7.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p7_1
+  rotate: false
+  xy: 2, 232
+  size: 446, 278
+  orig: 446, 278
+  offset: 0, 0
+  index: -1
+p7_1_t
+  rotate: false
+  xy: 641, 4
+  size: 153, 63
+  orig: 153, 63
+  offset: 0, 0
+  index: -1
+p7_2
+  rotate: false
+  xy: 2, 52
+  size: 446, 178
+  orig: 446, 178
+  offset: 0, 0
+  index: -1
+p7_2_t_1
+  rotate: true
+  xy: 823, 159
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+p7_2_t_2
+  rotate: false
+  xy: 898, 306
+  size: 96, 75
+  orig: 96, 75
+  offset: 0, 0
+  index: -1
+p7_3
+  rotate: true
+  xy: 450, 2
+  size: 256, 189
+  orig: 256, 189
+  offset: 0, 0
+  index: -1
+p7_3_t
+  rotate: false
+  xy: 2, 2
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+p7_4
+  rotate: false
+  xy: 641, 69
+  size: 180, 189
+  orig: 180, 189
+  offset: 0, 0
+  index: -1
+p7_4_t
+  rotate: false
+  xy: 71, 4
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+p7_5
+  rotate: false
+  xy: 450, 260
+  size: 446, 250
+  orig: 446, 250
+  offset: 0, 0
+  index: -1
+p7_5_t
+  rotate: false
+  xy: 898, 383
+  size: 106, 127
+  orig: 106, 127
+  offset: 0, 0
+  index: -1

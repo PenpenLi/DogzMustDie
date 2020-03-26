@@ -1,0 +1,117 @@
+
+effect_ui_daoju2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_daoju2/01
+  rotate: false
+  xy: 1, 353
+  size: 125, 118
+  orig: 127, 127
+  offset: 2, 0
+  index: -1
+effect_ui_daoju2/02
+  rotate: false
+  xy: 1, 117
+  size: 125, 116
+  orig: 127, 127
+  offset: 2, 3
+  index: -1
+effect_ui_daoju2/03
+  rotate: false
+  xy: 1, 1
+  size: 124, 115
+  orig: 127, 127
+  offset: 2, 4
+  index: -1
+effect_ui_daoju2/04
+  rotate: false
+  xy: 127, 5
+  size: 123, 113
+  orig: 127, 127
+  offset: 2, 5
+  index: -1
+effect_ui_daoju2/05
+  rotate: false
+  xy: 252, 124
+  size: 123, 113
+  orig: 127, 127
+  offset: 2, 5
+  index: -1
+effect_ui_daoju2/06
+  rotate: false
+  xy: 377, 357
+  size: 124, 114
+  orig: 127, 127
+  offset: 2, 5
+  index: -1
+effect_ui_daoju2/07
+  rotate: false
+  xy: 127, 119
+  size: 123, 116
+  orig: 127, 127
+  offset: 3, 3
+  index: -1
+effect_ui_daoju2/08
+  rotate: false
+  xy: 127, 353
+  size: 124, 118
+  orig: 127, 127
+  offset: 3, 0
+  index: -1
+effect_ui_daoju2/09
+  rotate: false
+  xy: 127, 236
+  size: 124, 116
+  orig: 127, 127
+  offset: 3, 0
+  index: -1
+effect_ui_daoju2/10
+  rotate: false
+  xy: 251, 8
+  size: 122, 115
+  orig: 127, 127
+  offset: 5, 0
+  index: -1
+effect_ui_daoju2/11
+  rotate: false
+  xy: 376, 18
+  size: 121, 112
+  orig: 127, 127
+  offset: 5, 3
+  index: -1
+effect_ui_daoju2/12
+  rotate: false
+  xy: 377, 244
+  size: 122, 112
+  orig: 127, 127
+  offset: 3, 3
+  index: -1
+effect_ui_daoju2/13
+  rotate: false
+  xy: 376, 131
+  size: 122, 112
+  orig: 127, 127
+  offset: 2, 3
+  index: -1
+effect_ui_daoju2/14
+  rotate: false
+  xy: 252, 238
+  size: 123, 116
+  orig: 127, 127
+  offset: 2, 0
+  index: -1
+effect_ui_daoju2/15
+  rotate: false
+  xy: 252, 355
+  size: 124, 116
+  orig: 127, 127
+  offset: 2, 0
+  index: -1
+effect_ui_daoju2/16
+  rotate: false
+  xy: 1, 234
+  size: 125, 118
+  orig: 127, 127
+  offset: 2, 0
+  index: -1

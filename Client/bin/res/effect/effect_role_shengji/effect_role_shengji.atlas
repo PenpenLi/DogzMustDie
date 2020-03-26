@@ -1,0 +1,68 @@
+
+effect_role_shengji.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_role_shengji/Image 1
+  rotate: false
+  xy: 1, 83
+  size: 542, 31
+  orig: 550, 40
+  offset: 4, 5
+  index: -1
+effect_role_shengji/Image 10
+  rotate: false
+  xy: 548, 212
+  size: 362, 40
+  orig: 550, 40
+  offset: 94, 0
+  index: -1
+effect_role_shengji/Image 11
+  rotate: false
+  xy: 548, 212
+  size: 362, 40
+  orig: 550, 40
+  offset: 94, 0
+  index: -1
+effect_role_shengji/Image 12
+  rotate: false
+  xy: 1, 1
+  size: 352, 40
+  orig: 550, 40
+  offset: 100, 0
+  index: -1
+effect_role_shengji/Image 14
+  rotate: false
+  xy: 1, 42
+  size: 358, 40
+  orig: 550, 40
+  offset: 97, 0
+  index: -1
+effect_role_shengji/Image 3
+  rotate: false
+  xy: 1, 115
+  size: 546, 32
+  orig: 550, 40
+  offset: 2, 4
+  index: -1
+effect_role_shengji/Image 5
+  rotate: false
+  xy: 1, 182
+  size: 546, 33
+  orig: 550, 40
+  offset: 2, 4
+  index: -1
+effect_role_shengji/Image 7
+  rotate: false
+  xy: 1, 148
+  size: 548, 33
+  orig: 550, 40
+  offset: 1, 4
+  index: -1
+effect_role_shengji/Image 9
+  rotate: false
+  xy: 1, 216
+  size: 546, 36
+  orig: 550, 40
+  offset: 2, 4
+  index: -1

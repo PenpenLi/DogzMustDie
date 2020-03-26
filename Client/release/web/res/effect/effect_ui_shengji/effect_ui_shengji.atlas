@@ -1,0 +1,89 @@
+
+effect_ui_shengji.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_shengji/effect_u01_01
+  rotate: false
+  xy: 318, 16
+  size: 62, 90
+  orig: 94, 100
+  offset: 12, 0
+  index: -1
+effect_ui_shengji/effect_u01_02
+  rotate: false
+  xy: 187, 8
+  size: 63, 92
+  orig: 94, 100
+  offset: 13, 0
+  index: -1
+effect_ui_shengji/effect_u01_04
+  rotate: false
+  xy: 1, 1
+  size: 94, 98
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+effect_ui_shengji/effect_u01_05
+  rotate: false
+  xy: 1, 100
+  size: 94, 99
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+effect_ui_shengji/effect_u01_07
+  rotate: false
+  xy: 96, 101
+  size: 94, 98
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+effect_ui_shengji/effect_u01_08
+  rotate: false
+  xy: 96, 3
+  size: 90, 97
+  orig: 94, 100
+  offset: 2, 3
+  index: -1
+effect_ui_shengji/effect_u01_09
+  rotate: false
+  xy: 191, 103
+  size: 83, 96
+  orig: 94, 100
+  offset: 7, 4
+  index: -1
+effect_ui_shengji/effect_u01_10
+  rotate: false
+  xy: 418, 104
+  size: 66, 95
+  orig: 94, 100
+  offset: 13, 5
+  index: -1
+effect_ui_shengji/effect_u01_12
+  rotate: false
+  xy: 251, 11
+  size: 66, 91
+  orig: 94, 100
+  offset: 11, 9
+  index: -1
+effect_ui_shengji/effect_u01_13
+  rotate: false
+  xy: 346, 109
+  size: 71, 90
+  orig: 94, 100
+  offset: 6, 10
+  index: -1
+effect_ui_shengji/effect_u01_15
+  rotate: false
+  xy: 275, 107
+  size: 70, 92
+  orig: 94, 100
+  offset: 8, 8
+  index: -1
+effect_ui_shengji/effect_u01_16
+  rotate: false
+  xy: 381, 22
+  size: 71, 81
+  orig: 94, 100
+  offset: 7, 19
+  index: -1

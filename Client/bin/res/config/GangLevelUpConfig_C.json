@@ -1,0 +1,13 @@
+{
+"1":{"GangSkillId":6001,"GangExp":60000,"Membership":3000},
+"2":{"GangSkillId":6002,"GangExp":120000,"Membership":6000},
+"3":{"GangSkillId":6003,"GangExp":200000,"Membership":10000},
+"4":{"GangSkillId":6004,"GangExp":300000,"Membership":15000},
+"5":{"GangSkillId":6005,"GangExp":400000,"Membership":20000},
+"6":{"GangSkillId":6006,"GangExp":500000,"Membership":25000},
+"7":{"GangSkillId":6007,"GangExp":600000,"Membership":30000},
+"8":{"GangSkillId":6008,"GangExp":700000,"Membership":35000},
+"9":{"GangSkillId":6009,"GangExp":800000,"Membership":40000},
+"10":{"GangSkillId":6010,"GangExp":900000,"Membership":45000},
+"11":{"GangSkillId":6011,"GangExp":1000000,"Membership":50000}
+}

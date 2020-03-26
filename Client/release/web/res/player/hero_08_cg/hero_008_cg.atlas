@@ -1,0 +1,181 @@
+
+hero_008_cg.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 139, 90
+  size: 54, 74
+  orig: 57, 74
+  offset: 0, 0
+  index: -1
+collar_1
+  rotate: false
+  xy: 234, 136
+  size: 21, 31
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+collar_2
+  rotate: false
+  xy: 231, 167
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+collar_3
+  rotate: false
+  xy: 149, 31
+  size: 27, 19
+  orig: 29, 19
+  offset: 2, 0
+  index: -1
+crotch
+  rotate: false
+  xy: 105, 20
+  size: 42, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 194, 61
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+fair_1
+  rotate: false
+  xy: 147, 2
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+fair_2
+  rotate: false
+  xy: 193, 92
+  size: 41, 72
+  orig: 41, 73
+  offset: 0, 1
+  index: -1
+fair_3
+  rotate: false
+  xy: 237, 26
+  size: 19, 35
+  orig: 20, 35
+  offset: 1, 0
+  index: -1
+fair_4
+  rotate: false
+  xy: 171, 0
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+finger
+  rotate: false
+  xy: 79, 11
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 53, 154
+  size: 85, 100
+  orig: 85, 101
+  offset: 0, 1
+  index: -1
+left_arm
+  rotate: false
+  xy: 53, 42
+  size: 54, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: false
+  xy: 107, 40
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 194, 22
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+left_thigh
+  rotate: false
+  xy: 149, 50
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+left_upper_arm
+  rotate: false
+  xy: 45, 9
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+microphone
+  rotate: false
+  xy: 0, 61
+  size: 53, 193
+  orig: 53, 193
+  offset: 0, 0
+  index: -1
+ribbon_1
+  rotate: false
+  xy: 231, 188
+  size: 17, 66
+  orig: 17, 66
+  offset: 0, 0
+  index: -1
+ribbon_2
+  rotate: false
+  xy: 223, 13
+  size: 14, 48
+  orig: 14, 48
+  offset: 0, 0
+  index: -1
+right_foot
+  rotate: false
+  xy: 0, 13
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 138, 164
+  size: 93, 90
+  orig: 93, 90
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 53, 79
+  size: 86, 75
+  orig: 86, 97
+  offset: 0, 22
+  index: -1
+shoes
+  rotate: false
+  xy: 0, 3
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+zipper
+  rotate: false
+  xy: 234, 122
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1

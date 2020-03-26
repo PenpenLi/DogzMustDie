@@ -1,0 +1,3 @@
+<!-- swan -->
+<!-- 首页的 web-view -->
+<web-view src="{{src}}"></web-view>

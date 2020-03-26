@@ -1,0 +1,1 @@
+dofile("./Logic/HttpReqHandler/g2/getRoleInfos.lua")

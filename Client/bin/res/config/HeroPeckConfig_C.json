@@ -1,0 +1,14 @@
+{
+"104":{"shopId":1,"chargeId":1,"limitTime":86400},
+"105":{"shopId":2,"chargeId":2,"limitTime":86400},
+"106":{"shopId":3,"chargeId":3,"limitTime":86400},
+"107":{"shopId":4,"chargeId":4,"limitTime":86400},
+"108":{"shopId":5,"chargeId":5,"limitTime":86400},
+"109":{"shopId":6,"chargeId":6,"limitTime":86400},
+"118":{"shopId":7,"chargeId":7,"limitTime":86400},
+"119":{"shopId":8,"chargeId":8,"limitTime":86400},
+"120":{"shopId":9,"chargeId":9,"limitTime":86400},
+"121":{"shopId":10,"chargeId":10,"limitTime":86400},
+"122":{"shopId":11,"chargeId":11,"limitTime":86400},
+"123":{"shopId":12,"chargeId":12,"limitTime":86400}
+}

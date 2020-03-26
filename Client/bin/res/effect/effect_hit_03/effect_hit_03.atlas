@@ -1,0 +1,54 @@
+
+effect_hit_03.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_hit_03/behit_jiguanpao_b_01
+  rotate: false
+  xy: 418, 97
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+effect_hit_03/behit_jiguanpao_b_02
+  rotate: false
+  xy: 1, 2
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+effect_hit_03/behit_jiguanpao_b_03
+  rotate: false
+  xy: 296, 1
+  size: 65, 92
+  orig: 65, 92
+  offset: 0, 0
+  index: -1
+effect_hit_03/behit_jiguanpao_b_04
+  rotate: false
+  xy: 418, 152
+  size: 91, 103
+  orig: 91, 103
+  offset: 0, 0
+  index: -1
+effect_hit_03/behit_jiguanpao_b_05
+  rotate: false
+  xy: 296, 94
+  size: 121, 161
+  orig: 121, 161
+  offset: 0, 0
+  index: -1
+effect_hit_03/behit_jiguanpao_b_06
+  rotate: false
+  xy: 154, 89
+  size: 141, 166
+  orig: 141, 166
+  offset: 0, 0
+  index: -1
+effect_hit_03/behit_jiguanpao_b_07
+  rotate: false
+  xy: 1, 65
+  size: 152, 190
+  orig: 153, 192
+  offset: 0, 0
+  index: -1

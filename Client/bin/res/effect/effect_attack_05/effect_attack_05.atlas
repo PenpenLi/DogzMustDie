@@ -1,0 +1,68 @@
+
+effect_attack_05.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_attack_05/1696-1
+  rotate: false
+  xy: 1, 583
+  size: 115, 290
+  orig: 115, 290
+  offset: 0, 0
+  index: -1
+effect_attack_05/1696-2
+  rotate: false
+  xy: 1, 292
+  size: 115, 290
+  orig: 115, 290
+  offset: 0, 0
+  index: -1
+effect_attack_05/1696-3
+  rotate: false
+  xy: 117, 583
+  size: 115, 290
+  orig: 115, 290
+  offset: 0, 0
+  index: -1
+effect_attack_05/1696-4
+  rotate: false
+  xy: 1, 1
+  size: 115, 290
+  orig: 115, 290
+  offset: 0, 0
+  index: -1
+effect_attack_05/1696-5
+  rotate: false
+  xy: 117, 292
+  size: 115, 290
+  orig: 115, 290
+  offset: 0, 0
+  index: -1
+effect_attack_05/1696-6
+  rotate: false
+  xy: 233, 583
+  size: 115, 290
+  orig: 115, 290
+  offset: 0, 0
+  index: -1
+effect_attack_05/1696-7
+  rotate: false
+  xy: 117, 1
+  size: 115, 290
+  orig: 115, 290
+  offset: 0, 0
+  index: -1
+effect_attack_05/1696-8
+  rotate: false
+  xy: 233, 292
+  size: 115, 290
+  orig: 115, 290
+  offset: 0, 0
+  index: -1
+effect_attack_05/1696-9
+  rotate: false
+  xy: 349, 583
+  size: 115, 290
+  orig: 115, 290
+  offset: 0, 0
+  index: -1

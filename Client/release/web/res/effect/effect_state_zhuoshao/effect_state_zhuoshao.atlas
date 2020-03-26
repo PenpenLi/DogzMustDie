@@ -1,0 +1,61 @@
+
+effect_state_zhuoshao.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_state_zhuoshao/1697-1
+  rotate: false
+  xy: 373, 125
+  size: 86, 114
+  orig: 87, 114
+  offset: 0, 0
+  index: -1
+effect_state_zhuoshao/1697-2
+  rotate: false
+  xy: 94, 9
+  size: 85, 111
+  orig: 88, 112
+  offset: 2, 1
+  index: -1
+effect_state_zhuoshao/1697-3
+  rotate: false
+  xy: 285, 124
+  size: 87, 115
+  orig: 88, 116
+  offset: 0, 1
+  index: -1
+effect_state_zhuoshao/1697-4
+  rotate: false
+  xy: 196, 121
+  size: 88, 118
+  orig: 89, 120
+  offset: 0, 1
+  index: -1
+effect_state_zhuoshao/1697-5
+  rotate: false
+  xy: 1, 1
+  size: 92, 119
+  orig: 93, 120
+  offset: 0, 1
+  index: -1
+effect_state_zhuoshao/1697-6
+  rotate: false
+  xy: 1, 121
+  size: 95, 118
+  orig: 95, 118
+  offset: 0, 0
+  index: -1
+effect_state_zhuoshao/1697-7
+  rotate: false
+  xy: 97, 126
+  size: 98, 113
+  orig: 99, 113
+  offset: 0, 0
+  index: -1
+effect_state_zhuoshao/1697-8
+  rotate: false
+  xy: 180, 17
+  size: 89, 103
+  orig: 89, 108
+  offset: 0, 1
+  index: -1

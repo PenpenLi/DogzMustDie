@@ -1,0 +1,4 @@
+{
+"1":{"1":{"roomScene":20001,"winAwardBase":10000,"roomName":25101,"comeInNeed":100000,"roomIcon":1},"2":{"roomScene":20001,"winAwardBase":20000,"roomName":25102,"comeInNeed":200000,"roomIcon":2}},
+"2":{"1":{"roomScene":20001,"winAwardBase":10,"roomName":25201,"comeInNeed":100,"roomIcon":1},"2":{"roomScene":20001,"winAwardBase":20,"roomName":25202,"comeInNeed":200,"roomIcon":2}}
+}

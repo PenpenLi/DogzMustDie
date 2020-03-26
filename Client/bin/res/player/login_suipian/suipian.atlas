@@ -1,0 +1,118 @@
+
+suipian.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suipian01
+  rotate: true
+  xy: 341, 217
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+suipian02
+  rotate: false
+  xy: 394, 285
+  size: 104, 86
+  orig: 104, 86
+  offset: 0, 0
+  index: -1
+suipian03
+  rotate: false
+  xy: 208, 178
+  size: 131, 84
+  orig: 131, 84
+  offset: 0, 0
+  index: -1
+suipian04
+  rotate: false
+  xy: 2, 81
+  size: 103, 196
+  orig: 103, 196
+  offset: 0, 0
+  index: -1
+suipian05
+  rotate: true
+  xy: 107, 8
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
+suipian06
+  rotate: false
+  xy: 29, 23
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+suipian07
+  rotate: false
+  xy: 232, 264
+  size: 148, 49
+  orig: 148, 49
+  offset: 0, 0
+  index: -1
+suipian08
+  rotate: false
+  xy: 232, 383
+  size: 160, 127
+  orig: 160, 127
+  offset: 0, 0
+  index: -1
+suipian09
+  rotate: false
+  xy: 2, 279
+  size: 228, 231
+  orig: 228, 231
+  offset: 0, 0
+  index: -1
+suipian10
+  rotate: false
+  xy: 205, 12
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+suipian12
+  rotate: false
+  xy: 208, 106
+  size: 117, 70
+  orig: 117, 70
+  offset: 0, 0
+  index: -1
+suipian13
+  rotate: true
+  xy: 394, 373
+  size: 137, 82
+  orig: 137, 82
+  offset: 0, 0
+  index: -1
+suipian17
+  rotate: true
+  xy: 394, 373
+  size: 137, 82
+  orig: 137, 82
+  offset: 0, 0
+  index: -1
+suipian14
+  rotate: true
+  xy: 232, 315
+  size: 66, 160
+  orig: 66, 160
+  offset: 0, 0
+  index: -1
+suipian15
+  rotate: false
+  xy: 107, 119
+  size: 99, 158
+  orig: 99, 158
+  offset: 0, 0
+  index: -1
+suipian16
+  rotate: true
+  xy: 2, 2
+  size: 77, 25
+  orig: 77, 25
+  offset: 0, 0
+  index: -1

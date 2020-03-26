@@ -1,0 +1,68 @@
+
+effect_ui_anniu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_anniu/image 1
+  rotate: false
+  xy: 169, 1
+  size: 54, 20
+  orig: 62, 24
+  offset: 4, 2
+  index: -1
+effect_ui_anniu/image 13
+  rotate: false
+  xy: 334, 1
+  size: 54, 20
+  orig: 62, 24
+  offset: 4, 2
+  index: -1
+effect_ui_anniu/image 17
+  rotate: false
+  xy: 389, 1
+  size: 54, 20
+  orig: 62, 24
+  offset: 4, 2
+  index: -1
+effect_ui_anniu/image 19
+  rotate: false
+  xy: 1, 1
+  size: 55, 20
+  orig: 62, 24
+  offset: 4, 2
+  index: -1
+effect_ui_anniu/image 23
+  rotate: false
+  xy: 57, 1
+  size: 55, 20
+  orig: 62, 24
+  offset: 4, 2
+  index: -1
+effect_ui_anniu/image 27
+  rotate: false
+  xy: 113, 1
+  size: 55, 20
+  orig: 62, 24
+  offset: 4, 2
+  index: -1
+effect_ui_anniu/image 31
+  rotate: false
+  xy: 444, 1
+  size: 54, 20
+  orig: 62, 24
+  offset: 4, 2
+  index: -1
+effect_ui_anniu/image 5
+  rotate: false
+  xy: 224, 1
+  size: 54, 20
+  orig: 62, 24
+  offset: 4, 2
+  index: -1
+effect_ui_anniu/image 9
+  rotate: false
+  xy: 279, 1
+  size: 54, 20
+  orig: 62, 24
+  offset: 4, 2
+  index: -1
